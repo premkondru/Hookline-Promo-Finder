@@ -1,0 +1,946 @@
+{
+  "range": "26-50",
+  "aliases": {
+    "JULIANA": "Lady Juliana Ashcroft - heroine; disowned Ashcroft daughter jilted by Gerald, married the scarred soldier; posing as a maid/healer at the manor in eps 22-28",
+    "LADY JULIANA": "Juliana (label used in ep 34 trial)",
+    "ALEXANDER": "Alexander - Juliana's husband, the 'broken soldier' (the 'Mysterious Bearded Man' in ep 3-4 loglines); presumed-dead Duke. Surname drifts: Ashwin (ep 39), Ashburn (ep 42-43), Ashburton (ep 45-46)",
+    "DOWAGER DUCHESS": "Alexander's mother, the Dowager Duchess (poisoned in eps 26-28; label returns in ep 43)",
+    "ALEXANDER'S MOTHER": "Dowager Duchess (label in eps 35, 36, 42)",
+    "LADY ASHBOURNE": "Dowager Duchess (label in ep 47)",
+    "BLOND NOBLEMAN": "Rupert (Ashburn) - Alexander's cousin and usurper (eps 27-28, 40-44; earlier loglines call him 'the Blond Nobleman')",
+    "BLOND NOBLEMAN (Rupert)": "Rupert (label form in ep 37)",
+    "RUPERT": "Rupert in ep 30. In ep 45 a 'RUPERT' speaks from the pews beside an unknown 'Mary' although Rupert was arrested in ep 44 - continuity error or a different, unidentified character",
+    "LADY CATHERINE": "Catherine (label in ep 27)",
+    "CATHERINE": "Lady Catherine - Rupert's bride and chief tormentor; claims a past love for Alexander (ep 44); camera in ep 42 implies Lord Sterling is her father (never said in dialogue)",
+    "ELDER NOBLEMAN": "Lord Henry Sterling - grey-haired conspirator with a gold-headed cane (eps 30, 40); named in eps 36, 43",
+    "LORD STERLING": "Lord Henry Sterling (label in ep 44)",
+    "LORD": "Unnamed aristocratic lord who coerces Prudence (ep 33) and prosecutes the trial (ep 34); most likely Lord Sterling per the ep 30 plan, but never confirmed",
+    "MAID": "Prudence (ep 33) - young maid whose seven-year-old brother Toby Juliana cured",
+    "PRUDENCE": "Prudence (named in ep 34)",
+    "JUDGE": "Presiding magistrate at Juliana's trial (ep 34)",
+    "TOWNSMAN": "Coached trial witness (ep 34)",
+    "OLD WOMAN": "Coached trial witness (ep 34)",
+    "GUARD": "Dungeon guard - gruff in ep 29; compassionate bread-giver in ep 38 (possibly a different man)",
+    "LADY CLARISSA": "Clarissa - Juliana's sister, who married Gerald (ep 37)",
+    "NOBLEMAN": "ep 37: Clarissa's dark-haired husband, presumably Gerald Harrington. ep 41: an unnamed nobleman in the pews (possibly the same)",
+    "NOBLEWOMAN": "Unnamed noblewoman in the pews (ep 41), possibly Clarissa",
+    "LORD HARRINGTON": "Probably Gerald Harrington, Juliana's ex-fiance (Harrington surname per ep 16 logline; gloats at the cathedral where he jilted her) - unconfirmed",
+    "LADY HARRINGTON": "Probably Clarissa as Gerald's wife - unconfirmed",
+    "BUTLER": "Clarissa's butler (ep 37)",
+    "FOOTMAN": "Cathedral footman (ep 40)",
+    "PRIEST": "Elderly priest officiating Rupert and Catherine's wedding (ep 41)",
+    "LOYALIST SCOUT": "One of Alexander's loyal men (ep 39)",
+    "LOYALIST FIGHTER": "One of Alexander's loyal men (ep 39)",
+    "LOYALIST": "One of Alexander's loyal men (ep 39)",
+    "CART DRIVER": "Loyalist disguised as a firewood carter (ep 39)",
+    "ROYAL SENTRY": "Royal guard at the cathedral steps (ep 39)",
+    "ROYAL GUARD": "Royal guard / Guard Captain who answers to Sterling, then sides with Alexander (eps 40, 42, 43)",
+    "CROWN OFFICIAL": "Crown Military Magistrate who reads the War Office reports (ep 43)",
+    "POLICE CONSTABLE": "Constable who arrests Lord Sterling (eps 43-44)",
+    "HIGH PRIEST": "Father Thomas - the cleric who voids the marriage (eps 45-46; ep 45 action text calls him 'a Catholic Bishop'; named in eps 47-48 dialogue)",
+    "FATHER THOMAS": "Father Thomas - Catherine's secret ally and lover (eps 49-50)",
+    "CONSPIRATOR": "Unnamed bare-chested man scheming with Catherine (ep 47)",
+    "VAUGHN": "Estate guard/retainer at Ashbourne (ep 47)",
+    "AGNES": "Catherine's maid and go-between (eps 48-50)"
+  },
+  "episodes": [
+    {
+      "episode": 26,
+      "summary": "Juliana sneaks into the poisoned Dowager Duchess's bedchamber at night to give her the last of the charcoal antidote. The Duchess realizes Rupert and Catherine are poisoning her, then spots the signet ring on Juliana's hand and frantically demands to know where she got it.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:55.80",
+            "end": "01:07.00"
+          },
+          {
+            "start": "01:13.80",
+            "end": "02:00.88"
+          }
+        ],
+        "duration_sec": 58.28,
+        "hook": "Dowager Duchess: \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\" (+0.2 s)",
+        "cliffhanger": "The Duchess clamps onto Juliana's hand: \"Where did you get this ring? Speak to me!\" Juliana freezes; cut to black. Why does the ring shock her, and who is this maid really?",
+        "why": "Opens on a poisoning, adds a disguised-noble mystery ('noble spirit', 'my family cast me out to rot'), and ends on the episode's own sting.",
+        "cold_viewer_risk": "Rupert and Catherine are just names; the ring's meaning (Alexander's family crest) is unknown, but that is the intended mystery. The jump cut drops a 7 s bottle insert.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:14.20",
+            "end": "00:50.80"
+          }
+        ],
+        "duration_sec": 36.6,
+        "hook": "Dowager Duchess, waking: \"Who are you? Speak to me. I have not seen your face before.\" (+0.0 s)",
+        "cliffhanger": "Juliana whispers \"If the guards hear us, we are both dead.\" and the shot holds on the bedchamber door, left ajar to the lit hallway. Is someone listening?",
+        "why": "Secret-mission tension: a disguised maid secretly nursing a dying noblewoman, who recognizes her courage.",
+        "cold_viewer_risk": "'Catherine's whip' refers to an earlier episode; the danger is implied, never shown.",
+        "score": 5
+      },
+      "promo_potential": "strong",
+      "potential_reason": "One room, clear stakes (poison), and a ready-made sting (the ring recognition)."
+    },
+    {
+      "episode": 27,
+      "summary": "The Duchess recognizes the Ashbourne crest on Juliana's wedding ring as her lost son's. Before Juliana can name her husband, Rupert, Catherine and a guard burst in, find the antidote vial, twist Juliana's word 'poison' into a confession, and order her seized.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:51.50"
+          }
+        ],
+        "duration_sec": 51.5,
+        "hook": "Dowager Duchess, gripping Juliana's hand: \"This ring...\" (+1.3 s), then 'Who gave this to you?' (+3.4 s)",
+        "cliffhanger": "\"What is your husband's name?\" Violent pounding, and the doors burst open on the Blond Nobleman, Lady Catherine and a guard. Will she say his name, and what do they want?",
+        "why": "Sells the title premise (a 'sergeant' husband whose ring carries a duke's crest) and cuts on a doors-burst interruption mid-episode.",
+        "cold_viewer_risk": "Viewers won't know the husband is Alexander or who the intruders are; 'Ashbourne crest' goes unexplained, but the 'my lost son wore that ring' line carries it.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "02:00.00",
+            "end": "02:30.50"
+          }
+        ],
+        "duration_sec": 30.5,
+        "hook": "Juliana: \"Someone has been poisoning Her Grace.\" (+0.4 s)",
+        "cliffhanger": "Catherine twists it (\"She admits she has been giving the Duchess poison in secret!\"), Rupert says \"Take her.\" and the guard drags Juliana off; ECU on her terrified eyes. What happens to her now?",
+        "why": "Pure injustice: a healer's warning is turned into a confession in seconds.",
+        "cold_viewer_risk": "It doesn't show that Juliana actually saved the Duchess, and the accusers are unexplained.",
+        "score": 7
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Two distinct sellable beats: the identity reveal with an interruption, and the frame-up ending."
+    },
+    {
+      "episode": 28,
+      "summary": "As Juliana is dragged off, the Duchess rallies to accuse Rupert and Catherine of poisoning her, collapses, and is dismissed as delirious. Catherine rips off Juliana's mother's locket, reads her name in the herbarium and unmasks her as the disgraced Lady Juliana Ashcroft. Rupert sends her to the wet cells, with the book as evidence for the gallows.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:10.50",
+            "end": "01:22.30"
+          },
+          {
+            "start": "01:31.00",
+            "end": "01:56.40"
+          },
+          {
+            "start": "02:04.90",
+            "end": "02:18.50"
+          }
+        ],
+        "duration_sec": 50.8,
+        "hook": "Action: \"Catherine ruthlessly yanks the silver locket off Juliana's neck.\" (+0.3 s), and Juliana cries out",
+        "cliffhanger": "Catherine: \"...before he sends you to the gallows.\" Juliana is wrenched back into the dark hallway, eyes wide. Will she hang?",
+        "why": "A physical cruelty hook; Catherine's taunts then recap the whole premise (disgraced daughter, married a penniless veteran) before the gallows threat.",
+        "cold_viewer_risk": "Low, since the dialogue explains who she is. The cut skips Catherine picking up the book.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:26.70",
+            "end": "01:10.50"
+          }
+        ],
+        "duration_sec": 43.8,
+        "hook": "Dowager Duchess, rising from her pillows: \"Stop this!\" (+0.0 s), then 'She is innocent. She saved me!' (+2.1 s)",
+        "cliffhanger": "After gaslighting the collapsing Duchess ('merely confused'), Rupert orders: \"Take her away before she poisons the rest of this house.\" Will anyone believe them?",
+        "why": "The victim names her poisoners to their faces, and they calmly call her mad.",
+        "cold_viewer_risk": "Viewers must infer that Juliana is the innocent maid being blamed; family relationships are unclear.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Visceral humiliation beats, an identity unmasking and an explicit gallows stake."
+    },
+    {
+      "episode": 29,
+      "summary": "Juliana is dragged into the dungeon while Catherine mocks her mother's herbarium and promises the magistrate will call it witchcraft and that she will burn it once Juliana hangs. Locked in a cell, Juliana breaks down, then vows they will never take Alexander from her.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:37.40",
+            "end": "01:18.50"
+          }
+        ],
+        "duration_sec": 41.1,
+        "hook": "Catherine, holding the herbarium: \"The magistrate will call it witchcraft.\" (+0.3 s)",
+        "cliffhanger": "Juliana: \"My husband will find me.\" Catherine: \"What exactly do you think a penniless veteran can do against Ashbrook?\" The title answers it; the episode doesn't.",
+        "why": "Villain menace ('I can burn it... your corpse at the end of the rope') plus dramatic irony against the show's title.",
+        "cold_viewer_risk": "Doesn't explain why the book matters or what she's accused of; 'Ashbrook' is an unexplained place name.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "01:23.00",
+            "end": "01:56.69"
+          }
+        ],
+        "duration_sec": 33.69,
+        "hook": "Action: \"The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.\" (+1.0 s)",
+        "cliffhanger": "The portcullis crashes down as Juliana stands in the moonlit cell: \"they will not take Alexander from me.\" How will she get out?",
+        "why": "Raw breakdown-to-resolve arc in a dungeon.",
+        "cold_viewer_risk": "'I saved the Duchess', the ledger and the locket all lack context, and it ends on resolve rather than a question.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Strong villain lines, but they are threats rather than events, and the ending is softer than the episodes around it."
+    },
+    {
+      "episode": 30,
+      "summary": "Lord Sterling (the Elder Nobleman) warns Rupert that the servants are whispering about the imprisoned Ashcroft girl. He, Rupert and Catherine then agree to manufacture evidence, rig a witchcraft trial and let the State hang her tomorrow. The episode closes on Juliana chained in the flooded wet cells.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:23.20",
+            "end": "01:41.90"
+          },
+          {
+            "start": "02:00.00",
+            "end": "02:31.21"
+          }
+        ],
+        "duration_sec": 49.91,
+        "hook": "Catherine: \"And if she claims she is a healer?\" / Elder Nobleman: \"Then call it witchcraft.\" (+0.0 s / +2.6 s)",
+        "cliffhanger": "\"Tomorrow, she stops being a prisoner. She becomes a witch.\" Cut to Juliana chained in the dark, looking up at the grate. Can she survive a rigged trial?",
+        "why": "The conspiracy laid out in quotable lines ('manufacture it... buy the jury, and let the State hang her'), then the victim's face.",
+        "cold_viewer_risk": "It's all villains until the last 6 s; who Juliana is and why they fear her is never explained.",
+        "score": 6
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:07.50",
+            "end": "00:54.60"
+          }
+        ],
+        "duration_sec": 47.1,
+        "hook": "Elder Nobleman: \"You have a rat in your cellar, Rupert. And the servants are beginning to smell it.\" (+1.3 s)",
+        "cliffhanger": "With his cane pinning Rupert to the wall (\"you burn them!\"), he walks into the library: \"We give them a reason to condemn her.\" What is the plan?",
+        "why": "A power play with a physical beat (the cane jammed against Rupert's chest).",
+        "cold_viewer_risk": "Depends heavily on knowing who is in the cellar and why; no protagonist on screen.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Strong villain dialogue, but a static, heroine-free plotting scene."
+    },
+    {
+      "episode": 31,
+      "summary": "Catherine enters the wet cell with a red-hot poker and Juliana's singed herbarium, taunting her about being jilted at the altar. Juliana defends her love for her 'scarred nobody' husband and needles Catherine until she snaps, burns the book and swings the glowing iron to within inches of Juliana's eye.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:58.20",
+            "end": "02:40.00"
+          }
+        ],
+        "duration_sec": 41.8,
+        "hook": "Juliana, chained, to her captor: \"Then why are you so desperate to make me kneel?\" (+0.2 s)",
+        "cliffhanger": "Catherine sears the book (\"One flame, and your mother's life's work becomes ash.\"), then thrusts the iron at Juliana's face; the ember is reflected in her pupil. Will she be blinded or branded?",
+        "why": "A defiant comeback, the villain snaps, the mother's book burns, and the cliffhanger is a literal red-hot iron. Readable with zero context.",
+        "cold_viewer_risk": "Low. Who Catherine is and why Juliana is chained go unexplained, but neither is needed.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:29.00"
+          }
+        ],
+        "duration_sec": 29.0,
+        "hook": "SFX: \"Heavy iron latch sliding back with an ominous, echoing metallic clang\" / Action: \"Juliana recoils against the damp stonework, her eyes wide with terror\" (+0.0 s / +2.8 s)",
+        "cliffhanger": "ECU on the white-hot poker tip: \"Because this is what you were always meant to be.\" What is she going to do with it?",
+        "why": "A dungeon-door entrance and a glowing weapon create instant dread.",
+        "cold_viewer_risk": "Catherine's grudge and the 'great Lady Juliana Ashcroft' jab are unexplained.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "The arc's most visceral imagery (hot iron, burning book) with crystal-clear stakes."
+    },
+    {
+      "episode": 32,
+      "summary": "As Catherine holds the burning ledger, Juliana tells her to burn it: she cannot burn what her mother taught her. Juliana then takes apart Catherine's values (beauty, money, name) and tells her she has never learned how to make anyone love her, until Catherine thrusts the glowing iron to within millimeters of Juliana's eye.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:16.00",
+            "end": "00:36.40"
+          },
+          {
+            "start": "02:05.40",
+            "end": "02:34.38"
+          }
+        ],
+        "duration_sec": 49.38,
+        "hook": "Catherine, iron over the burning ledger: \"Say goodbye to your mother.\" (+0.2 s), answered by Juliana's 'Burn it.' (+4.2 s)",
+        "cliffhanger": "\"Then let's see how brave you are when it touches your skin!\" The iron stops millimeters from Juliana's eye; cut to black.",
+        "why": "A reversal hook ('Burn it.') turns the victim into the aggressor, and it ends on the most extreme physical threat in the run.",
+        "cold_viewer_risk": "Low-medium. The jump cut skips 90 s of argument, and the ending duplicates ep 31's eye-and-iron sting.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:54.40",
+            "end": "01:32.80"
+          }
+        ],
+        "duration_sec": 38.4,
+        "hook": "Juliana: \"Gerald leaving me was the best thing he ever did for me.\" (+0.2 s)",
+        "cliffhanger": "\"Then I love a nobody.\" Catherine tightens her grip on the branding rod: \"You know nothing about my world.\" Will she use it?",
+        "why": "A jilted-bride empowerment speech that doubles as dramatic irony against the title (her 'nobody' is a duke).",
+        "cold_viewer_risk": "Gerald and Clarissa are unknown names, and the ending is a threat rather than a question.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Speech-heavy, but packed with quotable comebacks and a hard physical cliffhanger."
+    },
+    {
+      "episode": 33,
+      "summary": "A cold aristocratic lord coerces Prudence, the maid whose seven-year-old brother Toby Juliana saved. He threatens to send the boy to the county gaol unless she recasts Juliana's herbal treatment as testimony of a witchcraft ritual, and she collapses, apologizing to Lady Juliana.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:04.20",
+            "end": "01:19.50"
+          },
+          {
+            "start": "02:03.50",
+            "end": "02:44.50"
+          }
+        ],
+        "duration_sec": 56.3,
+        "hook": "Lord: \"One word from me, and the county gaol will take him before sunrise.\" (+0.2 s), and the maid begs 'he is only seven!' (+5.3 s)",
+        "cliffhanger": "The maid collapses (\"I am sorry, Lady Juliana...\") and the Lord answers \"Save your tears for the trial.\" Will she betray the woman who saved her brother?",
+        "why": "Blackmailing a child's sister into false testimony is clear, simple moral horror.",
+        "cold_viewer_risk": "Juliana never appears; neither Prudence nor the Lord is named in this episode, so viewers must infer the trial.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "01:19.50",
+            "end": "02:06.80"
+          }
+        ],
+        "duration_sec": 47.3,
+        "hook": "Lord: \"The truth.\" / \"She drew something around the bed, did she not?\" (+0.1 s / +1.5 s)",
+        "cliffhanger": "\"Praying... or chanting?\" builds to the Lord's verdict: \"That is witchcraft.\" Will the lie stick?",
+        "why": "Shows a frame-up being built one leading question at a time.",
+        "cold_viewer_risk": "A slow build with no physical action, and it relies on knowing who Juliana is.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Emotionally strong, but a two-hander without the leads; it works as a stakes promo."
+    },
+    {
+      "episode": 34,
+      "summary": "At her witchcraft and poisoning trial, Juliana admits she kept her mother's book and healed the sick, while a weeping Prudence and coached townsfolk testify against her. Told that refusing to renounce her remedies will be taken as proof of witchcraft, she refuses, and the judge rises to pronounce sentence.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:07.80"
+          },
+          {
+            "start": "02:22.20",
+            "end": "03:10.00"
+          }
+        ],
+        "duration_sec": 55.6,
+        "hook": "Judge: \"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\" (+1.2 s)",
+        "cliffhanger": "Gavel and \"Enough!\" The judge rises (\"Lady Juliana Ashcroft...\") and raises his hand to sentence her; fade out. What is the verdict?",
+        "why": "Courtroom stakes in one line, a principled refusal ('Then let it be.'), and a sentence cut off mid-delivery.",
+        "cold_viewer_risk": "Low, because the trial framing explains itself. Her innocence is asserted rather than shown.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:49.00",
+            "end": "01:33.80"
+          }
+        ],
+        "duration_sec": 44.8,
+        "hook": "Juliana, from the dock, to the tearful maid on the stand: \"Tell the truth.\" (+0.1 s)",
+        "cliffhanger": "The Lord, smiling: \"We have further witnesses.\" How much worse will it get?",
+        "why": "A friend's betrayal on the witness stand.",
+        "cold_viewer_risk": "Viewers don't know Prudence is being blackmailed, so it plays as a simple betrayal.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A trial reads instantly for anyone; this is the strongest 'injustice' promo of the arc."
+    },
+    {
+      "episode": 35,
+      "summary": "The Dowager Duchess escapes through a secret passage and treks through a blizzard to a hidden cabin, where she finds her presumed-dead son Alexander. He explains that he survived an ambush on a secret Crown mission, that the ambush was deliberately ordered, and that the men behind it now rule Ashwood.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:36.50",
+            "end": "01:06.00"
+          },
+          {
+            "start": "02:14.00",
+            "end": "02:37.50"
+          }
+        ],
+        "duration_sec": 53.0,
+        "hook": "Mother, in tears at the cabin door: \"Alexander!\" (+0.5 s), answered by 'Mother?' (+6.0 s)",
+        "cliffhanger": "\"The men behind it... are the same men ruling Ashwood now.\" Her soundless gasp. Who are they?",
+        "why": "A back-from-the-dead reunion ('I buried you.' 'I know.') followed by a conspiracy reveal.",
+        "cold_viewer_risk": "'Ashwood' and the war backstory are unexplained, and viewers don't know who rules now.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:05.50",
+            "end": "00:44.20"
+          }
+        ],
+        "duration_sec": 38.7,
+        "hook": "Elderly hooded woman fleeing through a stone tunnel: \"I will not die in that house.\" (+0.0 s)",
+        "cliffhanger": "She pushes into the snowbound cabin: \"Alexander!\" He answers: \"Mother?\" Who is he, and why is she so shaken?",
+        "why": "An escape-and-search journey that ends on a shocking face.",
+        "cold_viewer_risk": "Never says he was presumed dead; the context of her captivity (the poisoning) is missing.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "An emotional reunion plus a conspiracy reveal, with the title premise surfacing."
+    },
+    {
+      "episode": 36,
+      "summary": "Alexander names Sterling and Rupert as the traitors who leaked his position and had him declared dead. His mother reveals that Juliana was arrested, condemned as a witch, and will be executed after Rupert and Catherine's wedding in two days. Alexander vows that their 'dead Duke is coming home.'",
+      "best": {
+        "segments": [
+          {
+            "start": "01:59.50",
+            "end": "02:36.50"
+          },
+          {
+            "start": "03:04.00",
+            "end": "03:20.75"
+          }
+        ],
+        "duration_sec": 53.75,
+        "hook": "Mother: \"They called her a witch!\" (+0.3 s), then Alexander: 'Juliana... is in a cell?' (+4.3 s)",
+        "cliffhanger": "\"Because before that wedding begins... their dead Duke is coming home.\" Orchestral sting. What will he do in two days?",
+        "why": "Rapid escalation (cell, condemned, executed, after the wedding, two days from now) into a revenge vow that states the title premise.",
+        "cold_viewer_risk": "Low. Rupert and Catherine are only names, but the deadline and the vow are clear.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "02:36.50",
+            "end": "02:59.50"
+          }
+        ],
+        "duration_sec": 23.0,
+        "hook": "Alexander: \"They are marrying in two days...\" (+0.3 s), then '...and killing my wife afterward.' (+4.0 s)",
+        "cliffhanger": "\"And now they have taken Juliana!\" His gloved fist creaks shut. What will he do?",
+        "why": "A pure rage beat with a ticking clock.",
+        "cold_viewer_risk": "Who 'they' are, and why he can stop them, is unexplained.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Deadline plus revenge vow is a textbook promo."
+    },
+    {
+      "episode": 37,
+      "summary": "Rupert and Catherine send out wedding invitations that double as notice of Juliana's public execution, and Clarissa and her husband gloat over theirs. In the dungeon a starving Juliana refuses to beg. Clarissa toasts Juliana's ruin as the invitation's 'EXECUTION CLAUSE' fills the frame.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:18.80",
+            "end": "00:34.50"
+          },
+          {
+            "start": "01:35.50",
+            "end": "01:56.50"
+          },
+          {
+            "start": "02:21.50",
+            "end": "02:36.47"
+          }
+        ],
+        "duration_sec": 51.67,
+        "hook": "Rupert: \"And no one will question what happened to the woman who tried to stop us.\" (+0.2 s)",
+        "cliffhanger": "Clarissa sips her wine: \"Let them see what happens when a woman forgets her place.\" Push-in on the 'EXECUTION CLAUSE'. Will the execution happen?",
+        "why": "Villains schedule an execution as wedding entertainment, intercut with the heroine's defiance ('They cannot take who I am!').",
+        "cold_viewer_risk": "Clarissa is never introduced; 'the Ashcrofts' and the reason Juliana is condemned are unclear.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:58.50",
+            "end": "01:28.00"
+          }
+        ],
+        "duration_sec": 29.5,
+        "hook": "Nobleman, reading the invitation: \"The sentencing of the condemned.\" (+0.3 s)",
+        "cliffhanger": "Clarissa: \"Juliana's ruin will be a lesson. And we will be there to watch.\" Will it go ahead?",
+        "why": "A society couple delighting in 'a public execution after a wedding'.",
+        "cold_viewer_risk": "Doesn't explain who Juliana is or who these people are.",
+        "score": 6
+      },
+      "promo_potential": "ok",
+      "potential_reason": "A setup episode with good lines; the threat is announced rather than acted out."
+    },
+    {
+      "episode": 38,
+      "summary": "A compassionate guard slips the starving Juliana a loaf of bread. She prays for Alexander's safety and vows never to betray him, until church bells toll above the dungeon: the wedding has begun, and her execution is next.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:15.50",
+            "end": "00:23.20"
+          },
+          {
+            "start": "00:34.50",
+            "end": "00:51.00"
+          },
+          {
+            "start": "01:00.50",
+            "end": "01:27.91"
+          }
+        ],
+        "duration_sec": 51.61,
+        "hook": "Juliana, crawling to the bread: \"Why?\" / Guard: \"Because no one should die hungry.\" (+0.5 s / +2.0 s)",
+        "cliffhanger": "Bells toll: \"The wedding. It's beginning. Then I suppose I'm next.\" A brave smile, then \"Alexander...\" Will he come in time?",
+        "why": "A kindness-in-the-dark hook, a prayer, then a ticking-clock sound cue that signals her execution.",
+        "cold_viewer_risk": "Who Alexander is, whose wedding it is and why she is condemned are all left implicit.",
+        "score": 7
+      },
+      "runner_up": null,
+      "promo_potential": "ok",
+      "potential_reason": "A short (88 s), single-location, quiet episode: one good ticking-clock ending and no second distinct moment."
+    },
+    {
+      "episode": 39,
+      "summary": "Alexander's loyalists scout the cathedral and silently take down the royal sentries. In a cabin, Alexander cuts his hair, trims his beard and dons ducal regalia, then marches through the snow vowing to take back his house and bring his wife home.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:46.80",
+            "end": "01:38.41"
+          }
+        ],
+        "duration_sec": 51.61,
+        "hook": "Cart driver: \"The road is clear.\" / Loyalist: \"Tell the Duke.\" (+0.2 s / +1.4 s), cutting to a scarred, bearded man in a cracked mirror",
+        "cliffhanger": "\"I am taking back my house... And I am bringing my wife home.\" Cut to black as he marches on the chapel. What happens when he gets there?",
+        "why": "The transformation montage (rugged soldier to duke, 'Your Grace' on bended knee) is the title made visual.",
+        "cold_viewer_risk": "Low. It doesn't say where the wife is or what threatens her.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:18.00",
+            "end": "00:50.00"
+          }
+        ],
+        "duration_sec": 32.0,
+        "hook": "Loyalists in an alley: \"Six at the front.\" / \"Four more inside.\" (+0.3 s / +2.2 s)",
+        "cliffhanger": "With the sentries choked out on the steps: \"The road is clear.\" \"Tell the Duke.\" Who is the Duke, and what is he planning?",
+        "why": "A heist-style silent takedown.",
+        "cold_viewer_risk": "No main character on screen, and the purpose of the raid is unclear.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A visual transformation plus action, with little reliance on dialogue."
+    },
+    {
+      "episode": 40,
+      "summary": "High society, including Lord and Lady Harrington, arrives at the cathedral gloating about Juliana's coming execution. On the balcony, Sterling confirms every entrance is guarded and promises 'its witch will be dead', and Catherine walks down the aisle to Rupert, teasing him about having been an ignored cousin.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:09.50",
+            "end": "01:50.08"
+          }
+        ],
+        "duration_sec": 40.58,
+        "hook": "Elder Nobleman, on the balcony: \"By sunset, Ashburgh will have its new Duke and Duchess.\" (+0.3 s), with 'And its witch will be dead.' landing at +5.3 s",
+        "cliffhanger": "At the altar Catherine purrs: \"And you look better in silk than you ever did as an ignored cousin.\" Conspiratorial smiles as the organ holds. Will they get away with it?",
+        "why": "A grand villain wedding entrance framed by a promised execution.",
+        "cold_viewer_risk": "High. Who 'the witch' is, why the title matters and who these people are are all unexplained, and no protagonist appears.",
+        "score": 5
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:23.00",
+            "end": "00:49.80"
+          }
+        ],
+        "duration_sec": 26.8,
+        "hook": "Lady Harrington: \"Imagine Juliana seeing this.\" (+0.2 s), with 'She won't be seeing anything for long.' at +3.2 s",
+        "cliffhanger": "\"We have an excellent view.\" \"Of the wedding?\" \"And everything that comes after it.\" What comes after?",
+        "why": "Smug guests foreshadow an execution.",
+        "cold_viewer_risk": "High. Juliana and the Harringtons are unknown, and the callback to her jilting at this cathedral is invisible.",
+        "score": 4
+      },
+      "promo_potential": "weak",
+      "potential_reason": "Pure setup: arrivals and villain smugness, with no conflict on screen and no protagonist."
+    },
+    {
+      "episode": 41,
+      "summary": "Catherine halts her own wedding to have Juliana paraded down the aisle in chains and publicly humiliated. Juliana retorts that Catherine needs an entire chapel to feel powerful over one chained woman. As the vows begin, an explosion blasts open the cathedral doors and armed figures emerge from the smoke.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:08.50",
+            "end": "00:28.80"
+          },
+          {
+            "start": "00:57.80",
+            "end": "01:04.00"
+          },
+          {
+            "start": "01:17.50",
+            "end": "01:36.09"
+          }
+        ],
+        "duration_sec": 45.09,
+        "hook": "The bride, Catherine, to the congregation: \"...I want everyone to see what happens to a woman who dares defy this family.\" (+0.0 s)",
+        "cliffhanger": "An explosion blasts the doors in, armed silhouettes appear in the smoke, and Juliana turns as hope dawns on her face. Who is coming?",
+        "why": "Humiliation, a comeback and an explosive interruption in 45 s, all readable cold.",
+        "cold_viewer_risk": "Low; who is behind the blast is the intended question.",
+        "score": 9
+      },
+      "runner_up": null,
+      "promo_potential": "strong",
+      "potential_reason": "One continuous set piece with an explosive end sting. Every viable cut ends on the same blast, so there is no distinct runner-up."
+    },
+    {
+      "episode": 42,
+      "summary": "Alexander strides through the smoking ruins in ducal regalia. The royal guards refuse Rupert's order to arrest him 'because we know who he is', his mother embraces him and proclaims him Alexander Ashburn, the rightful Duke, and Alexander turns on Rupert: 'we settle what you stole.'",
+      "best": {
+        "segments": [
+          {
+            "start": "00:10.50",
+            "end": "00:39.90"
+          },
+          {
+            "start": "01:04.00",
+            "end": "01:17.80"
+          }
+        ],
+        "duration_sec": 43.2,
+        "hook": "Rupert, facing the man in the smoke: \"Who are you?\" / Alexander: \"You already know.\" (+0.7 s / +2.3 s)",
+        "cliffhanger": "Hand on his sabre: \"And now, Rupert... we settle what you stole.\" What will he do to him?",
+        "why": "A hero entrance, guards who defect, 'You cannot be him. Alexander died!' and a public proclamation: the title paid off.",
+        "cold_viewer_risk": "Low for comprehension, but it spoils the usurpers' downfall for anyone who would start at ep 1.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:39.90",
+            "end": "01:17.80"
+          }
+        ],
+        "duration_sec": 37.9,
+        "hook": "His elderly mother steps into the aisle, hands outstretched: \"Alexander...\" (+0.3 s)",
+        "cliffhanger": "After \"This is my son... The rightful Duke of Ashburn!\" he turns on the cowering groom: \"we settle what you stole.\"",
+        "why": "A mother-son reunion and a public coronation moment.",
+        "cold_viewer_risk": "Doesn't show why he was gone; heavy spoiler of the arc's resolution.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "The big hero-entrance payoff, short and visual."
+    },
+    {
+      "episode": 43,
+      "summary": "Rupert screams for Alexander's arrest, but the guard captain salutes Alexander as the true Duke. A Crown official reads War Office reports proving Alexander's position was deliberately leaked and naming Lord Henry Sterling and Rupert Ashburn. Rupert blames Sterling, who slips out a side door straight into a waiting constable.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:10.50",
+            "end": "00:21.80"
+          },
+          {
+            "start": "00:57.00",
+            "end": "01:11.30"
+          },
+          {
+            "start": "01:33.20",
+            "end": "01:54.96"
+          }
+        ],
+        "duration_sec": 47.36,
+        "hook": "Rupert, veins bulging: \"I said arrest him!\" (+0.0 s), and the guard's 'We will not.' (+3.7 s)",
+        "cliffhanger": "Sterling flees through the side door into a constable: \"Going somewhere, Lord Sterling?\" Frozen terror. What happens to him now?",
+        "why": "The 'No. He is your Duke.' salute, names read aloud, villains turning on each other and an escape blocked.",
+        "cold_viewer_risk": "The names (Sterling, Ashburn) mean nothing cold, and it spoils the conspiracy's exposure.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:26.00",
+            "end": "01:00.00"
+          }
+        ],
+        "duration_sec": 34.0,
+        "hook": "Alexander, raising a sealed dossier: \"Then let the Crown decide.\" (+0.1 s)",
+        "cliffhanger": "The report calls the leak deliberate; Rupert clings to a pillar, and Alexander says \"Read the names.\" Whose names?",
+        "why": "A 'WAR OFFICE - TOP SECRET' dossier reveal that ends on a held breath.",
+        "cold_viewer_risk": "Dense military-intelligence exposition that assumes viewers know about the ambush.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A public-exposure courtroom-style payoff with a caught-fleeing button."
+    },
+    {
+      "episode": 44,
+      "summary": "Sterling is arrested by order of the Crown and Rupert is forced to his knees. Catherine abandons him to plead with Alexander that she mourned and loved him, but he coldly answers 'You were never my Duchess' and walks to his chained bride Juliana, leaving Catherine gasping 'Her?!'",
+      "best": {
+        "segments": [
+          {
+            "start": "00:24.40",
+            "end": "01:10.50"
+          }
+        ],
+        "duration_sec": 46.1,
+        "hook": "The bride walks away from her arrested groom to another man: \"Alexander... I thought you had died.\" (+0.8 s)",
+        "cliffhanger": "He leaves her hand hanging and walks to the chained prisoner at the door; Catherine gasps \"Her?!\" Who is she to him?",
+        "why": "A spurned-bride rejection with cutting lines ('You loved the Duke you thought you would marry.').",
+        "cold_viewer_risk": "Catherine's past with Alexander is never shown, and the final 'Her?!' lasts 0.3 s inside the episode's last 0.9 s.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:03.20",
+            "end": "00:24.40"
+          }
+        ],
+        "duration_sec": 21.2,
+        "hook": "Constable: \"Lord Henry Sterling, you are under arrest by order of the Crown.\" (+0.1 s)",
+        "cliffhanger": "Rupert on his knees: \"Catherine! Do something!\" Her silent, clenched fist. What will she do?",
+        "why": "A villains-get-caught payoff.",
+        "cold_viewer_risk": "Requires knowing who these men are and what they did, and it is a spoiler.",
+        "score": 5
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A rejection scene with a one-word sting; very shareable."
+    },
+    {
+      "episode": 45,
+      "summary": "Alexander kneels, unshackles Juliana and reveals he is the rightful Duke, and they trade vows of love. He condemns Catherine for poisoning his mother and torturing his wife and proclaims Juliana his lawful wife and Duchess, until the High Priest bursts in to declare the marriage invalid and Catherine smiles.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:09.90",
+            "end": "00:27.40"
+          },
+          {
+            "start": "01:14.50",
+            "end": "01:20.50"
+          },
+          {
+            "start": "01:26.50",
+            "end": "02:01.75"
+          }
+        ],
+        "duration_sec": 58.75,
+        "hook": "SFX: \"Heavy iron clanking as the shackles fall away.\" / Juliana: \"Your eyes...\" (+0.3 s / +2.6 s)",
+        "cliffhanger": "High Priest: \"You are not Alexander Ashburton's lawful wife.\" Juliana clutches his hand while Catherine's despair turns to a triumphant smile. Is the marriage over?",
+        "why": "The secret-identity reveal to the heroine ('You're the Duke?'), a public proclamation, then an instant reversal.",
+        "cold_viewer_risk": "Low-medium, because of the marriage-licence legalese. It also spends the core 'he was a Duke' reveal.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:51.80",
+            "end": "01:30.80"
+          }
+        ],
+        "duration_sec": 39.0,
+        "hook": "Alexander, towering over the bride: \"You poisoned my mother. You tortured my wife.\" (+2.2 s)",
+        "cliffhanger": "The doors slam open and a cleric booms: \"No one will bow yet!\" Who is he, and what does he want?",
+        "why": "The villain is called out in public ('Wife?!'), then a triumphant proclamation, then an interruption.",
+        "cold_viewer_risk": "Medium; the poisoning and torture references assume backstory.",
+        "score": 7
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Romance payoff plus a fresh reversal: the best two-act promo in the range."
+    },
+    {
+      "episode": 46,
+      "summary": "The High Priest places the chapel under Crown seizure and argues that a hedge-wedding to a 'nameless beggar' never bound a Duke. Juliana declares 'God married us', Alexander demands the council prove its case in ten days and faces down the halberds, and Catherine whispers that ten days is plenty of time.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:05.80",
+            "end": "01:25.80"
+          },
+          {
+            "start": "01:51.80",
+            "end": "02:23.88"
+          }
+        ],
+        "duration_sec": 52.08,
+        "hook": "High Priest, smirking: \"Love doesn't make a Duchess, girl. Paper does.\" (+1.0 s)",
+        "cliffhanger": "Catherine, to camera: \"Ten days is plenty of time.\" Plenty of time for what?",
+        "why": "A quotable clash ('God married us, Father! You are just angry no one asked you first!'), a ten-day clock and a villain's whisper.",
+        "cold_viewer_risk": "Medium. Why the marriage is invalid, and who Catherine is, are unclear.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:20.50",
+            "end": "00:42.80"
+          }
+        ],
+        "duration_sec": 22.3,
+        "hook": "High Priest: \"You married this woman as a nameless beggar...\" (+0.1 s)",
+        "cliffhanger": "\"The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.\" Is their marriage void?",
+        "why": "Explains both the premise and the new conflict in two sentences.",
+        "cold_viewer_risk": "Legalistic, with little emotion.",
+        "score": 6
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Good lines, but a legal argument is a harder sell than physical stakes."
+    },
+    {
+      "episode": 47,
+      "summary": "Catherine privately vows to stay on the estate. Alexander reassures a fearful Juliana that she is his wife whatever the council decides. Next day Catherine kneels in the muddy courtyard begging for sanctuary; as Alexander orders her thrown out, Juliana steps in and offers her shelter only as a scullery maid, which Catherine accepts.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:56.80",
+            "end": "01:41.20"
+          }
+        ],
+        "duration_sec": 44.4,
+        "hook": "Lady Ashbourne, looming over the kneeling ex-bride: \"You dare show your face in Ashbourne courtyard?\" (+0.0 s)",
+        "cliffhanger": "\"You want me? As a guest?\" Juliana: \"As a scullery maid.\" Will the proud ex-bride accept?",
+        "why": "The revenge reversal pays off: the tormentor begs, and the former maid sets the terms.",
+        "cold_viewer_risk": "Medium. Viewers must infer that Catherine was the villain and that Juliana once scrubbed these floors.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:01.80",
+            "end": "00:21.50"
+          },
+          {
+            "start": "01:58.50",
+            "end": "02:14.00"
+          }
+        ],
+        "duration_sec": 35.2,
+        "hook": "Catherine, wine in hand: \"Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.\" (+0.0 s)",
+        "cliffhanger": "She vows 'I will do the rest', then kneels, takes the apron and says \"I accept, Your Grace.\" Is the surrender a trap?",
+        "why": "Cuts the private scheme against the public surrender.",
+        "cold_viewer_risk": "High; the council and registry references and the conspirator are unexplained.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A satisfying revenge-reversal beat with an open ending."
+    },
+    {
+      "episode": 48,
+      "summary": "Alone at night, Catherine drops her act and vows to use the council's ten days to reverse Juliana's rise. She has her maid Agnes lock the door, reveals that Father Thomas has been working for her, and pays Agnes to bring the priest to her in secret.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:26.70"
+          },
+          {
+            "start": "00:51.50",
+            "end": "01:20.00"
+          }
+        ],
+        "duration_sec": 55.2,
+        "hook": "Catherine, turning from the window: \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\" (+2.4 s)",
+        "cliffhanger": "\"Send for the priest. Tonight. And make sure no one sees him arrive.\" What does she need him for?",
+        "why": "A villain monologue ('Ten days is not a wall... It's a door.') plus the twist that the priest who stopped the wedding works for her.",
+        "cold_viewer_risk": "High. The ten days, the council, the 'healer's crown' and Father Thomas all need earlier episodes.",
+        "score": 5
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:30.90",
+            "end": "00:51.50"
+          }
+        ],
+        "duration_sec": 20.6,
+        "hook": "Catherine to her maid: \"Lock it.\" (+0.0 s)",
+        "cliffhanger": "\"I'm not leaving the county, Agnes. I'm going back into that house.\" To do what?",
+        "why": "Secret-meeting intimacy and a menacing intent.",
+        "cold_viewer_risk": "High; no stakes are visible.",
+        "score": 3
+      },
+      "promo_potential": "weak",
+      "potential_reason": "A monologue and an errand: no conflict on screen and no protagonist."
+    },
+    {
+      "episode": 49,
+      "summary": "Before dawn in an abandoned wing, Catherine meets Father Thomas, with hints that they are past lovers. She demands he stall the council hearing and feed her its secrets; when he warns that treason against the restored Duke means hanging, she promises a grateful Duchess's rewards, and they seal the pact with an intimate touch.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:33.20",
+            "end": "00:41.80"
+          },
+          {
+            "start": "01:43.80",
+            "end": "02:24.75"
+          }
+        ],
+        "duration_sec": 49.55,
+        "hook": "Father Thomas: \"A priest and a disgraced bride meeting before dawn in her bedchamber\" (+0.3 s)",
+        "cliffhanger": "Hands joined: \"Then we understand each other.\" \"We always have.\" He cups her cheek. What are they to each other, and what will they do?",
+        "why": "A forbidden priest-and-bride alliance with treason stakes ('Careful men still hang').",
+        "cold_viewer_risk": "High. The council hearing, the Duke and their target are all unexplained.",
+        "score": 5
+      },
+      "runner_up": null,
+      "promo_potential": "weak",
+      "potential_reason": "A single talky two-hander; the only scroll-stopper is the scandal line. The rest is demands with no visual payoff."
+    },
+    {
+      "episode": 50,
+      "summary": "In bed after their tryst, Catherine and Father Thomas haggle over his price, control of tax collection in the west territory, for keeping the hearing stalled. As they embrace again, Agnes passes the open door, sees them and stumbles back in horror.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:35.80"
+          },
+          {
+            "start": "01:05.50",
+            "end": "01:20.00"
+          }
+        ],
+        "duration_sec": 50.3,
+        "hook": "Overhead of a priest in bed with the ex-bride: \"A man in your collar isn't supposed to have that much left in him, Thomas.\" (+1.8 s)",
+        "cliffhanger": "Agnes sees them through the doorway, gasps and backs into the dark. Will she expose them?",
+        "why": "A scandal hook, a quotable bribe line ('Absolution is free. Discretion has a price.') and a caught-in-the-act ending.",
+        "cold_viewer_risk": "Medium. Agnes is unexplained, and the bed scene may be platform-sensitive.",
+        "score": 7
+      },
+      "runner_up": null,
+      "promo_potential": "ok",
+      "potential_reason": "The scandal plus witness ending works, but the episode has only one cliffhanger, so there is no distinct runner-up."
+    }
+  ]
+}

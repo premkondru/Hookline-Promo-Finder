@@ -1,0 +1,323 @@
+[
+  {
+    "episode": 4,
+    "winner": "Cut 1",
+    "confidence": "slight",
+    "deciding_factor": "Pace: Cut 1 escalates every few seconds (mockery -> 'husband and wife!' -> clapback -> 'You are disowned!') and ends on a big open consequence; Cut 2 sags into ~6s of wordless reaction shots and then a slow 35s proposal exchange.",
+    "cut1_problems": [
+      "Hook is verbal mockery ('A penniless nobody for a discarded bride') over a smug face; nothing physical happens on screen for mute viewers",
+      "'Look at him' points at a man who is never shown; the scarred soldier (the series' male lead) gets no close-up, only a glimpse in the wedding three-shot and behind Juliana at 20.8s",
+      "Jump cut at 11.8s goes straight from the insults to 'I now pronounce you...', skipping the proposal, so the clip never shows why she marries a stranger",
+      "'Penniless nobody' is said twice (1.8s and 18.8s)",
+      "'You are disowned!' closes the scene on a declaration rather than a pending event, though it does leave her future open"
+    ],
+    "cut2_problems": [
+      "Same verbal-mockery hook with no physical action",
+      "~6s with no dialogue right after the hook (~11-16.8s: hurt close-up, looking up at the arches, a steadying breath)",
+      "Slow, talky 35s proposal exchange with another ~3s gap (~35.7-38.8s); on mute it's mostly alternating close-ups",
+      "The cliffhanger ('If this is pity, take back your ring') is soft because the series title already says she marries him",
+      "52.6s is long for a single conversation"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 6,
+    "winner": "neither",
+    "confidence": "clear",
+    "deciding_factor": "Neither opens on a hook or ends on an unresolved event (it's a quiet transitional scene). If forced, Cut 1 by a hair, for its fuller arc and visual reveals (leaking roof, bridal gown under the cloak).",
+    "cut1_problems": [
+      "Hook is a calm wide establishing shot of a cottage through trees; the first line, 'That is it?' (2.5s), is low-stakes",
+      "~7.7s with no dialogue (~9-16.7s: door creak, drip bucket, door closing) and another ~4s at ~23-27s",
+      "No conflict; ends on a contented, resolved beat",
+      "The closing 'I am.' (to 'You are not disappointed?') is ambiguous: it contradicts 'I think I like that' and reads like a truncated line, not a cliffhanger"
+    ],
+    "cut2_problems": [
+      "Opens on a solemn apology ('I know this is not the life you came from'): melancholy, not a scroll-stopper; only the rain-soaked scarred face gives it any visual pull",
+      "3.3s gap between 'No.' and 'It isn't.', then ~5.5s with no dialogue (~13.8-19.3s) while the cottage establishing shot resets the pace mid-clip",
+      "Ends as she walks toward the door after a quip. There's no unresolved event, and the inside of the cottage is never shown",
+      "'The day was already ruined' and 'waiting to humiliate me' point to backstory the clip never shows; nothing tells a new viewer she has just been married"
+    ],
+    "postable": {"Cut 1": false, "Cut 2": false}
+  },
+  {
+    "episode": 8,
+    "winner": "Cut 2",
+    "confidence": "clear",
+    "deciding_factor": "Hook: Cut 2 opens on him catching her wrist mid-reach ('Not yet') within 2s; Cut 1 opens on a quiet line about a book and takes 30s to reach the same beat.",
+    "cut1_problems": [
+      "Hook is a quiet line about a fragile book ('Some of the pages are ruined. Careful.') over a woman touching a cover",
+      "The first ~30s are gentle herb exposition (yarrow, which plants soldiers use); the only tension beat, the wrist catch, arrives at 31.9s",
+      "Ends on 'Let them grow.', which is intriguing but a soft mystery line, not an unresolved event",
+      "Low stakes throughout"
+    ],
+    "cut2_problems": [
+      "'I could trim them for you' opens with no referent; 'them' (his hair and beard) only becomes clear with the beard banter around 10-18s",
+      "The middle banter (forest hermit, 'one day I am trimming that beard', 'We'll see') turns the 'Not yet' tension into light teasing",
+      "The ending, 'Some were.', is a soft hint about his past rather than an unresolved event, and the clip cuts out almost the moment the line ends",
+      "Low stakes overall"
+    ],
+    "postable": {"Cut 1": false, "Cut 2": true}
+  },
+  {
+    "episode": 9,
+    "winner": "Cut 1",
+    "confidence": "clear",
+    "deciding_factor": "Ending: Cut 1 leaves a live threat (the nobleman hears that a scarred veteran may be the 'late Duke' and freezes in dread); Cut 2 resolves its own crisis (the fever breaks) and ends on thanks.",
+    "cut1_problems": [
+      "Opens mid-argument on a warning line ('You cannot let the whole village start talking about you') with no visual action; the healing that caused the gossip happens before the clip starts",
+      "Scene change at 9s to a manor and two new, unnamed men; the viewer has to infer why the nobleman cares about the rumor",
+      "Slow finish: ~4s without dialogue as the messenger leaves (~31-35s), then a ~4.7s hold after 'Impossible.'"
+    ],
+    "cut2_problems": [
+      "The first 2s are calm herb-grinding; the hook is the sound of pounding on the door, which mute viewers only get as a head turn at 2.8s",
+      "Jump cut at 15.2s skips the treatment, going straight from touching his forehead to 'His fever... it's breaking', which kills the suspense",
+      "Gives away the episode's payoff (the cure) halfway through",
+      "Ends on a resolved, grateful beat; the menace in 'I will tell the village' only lands for people who already know the story"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": false}
+  },
+  {
+    "episode": 12,
+    "winner": "Cut 1",
+    "confidence": "slight",
+    "deciding_factor": "Hook: Cut 1 has handcuffs and 'You are under arrest' in its first 3s and reaches the sadistic ultimatum by 9s; Cut 2 opens on a wordy 6.5s accusation and takes 30s to get there. Both end unresolved.",
+    "cut1_problems": [
+      "Jump cut at 9.1s skips how Clarissa comes in and the 'name your price' setup; 'that watch' is never explained (it can be inferred as the stolen item)",
+      "~5-6s silent hold (~42.5-48.2s) before the final line",
+      "'Tell me where the garden is': no garden was mentioned (Clarissa only said 'blackthorn briars at Ashworth Manor')",
+      "It ends on her accepting, so the choice is already made; only the ordeal itself is left open"
+    ],
+    "cut2_problems": [
+      "Hook is a 6.5s gloating accusation ('The proof is in his coat...') from a man in a doorway, which is weak on mute",
+      "~30s of argument before the ultimatum arrives (30.1s)",
+      "55.6s, close to the 60s cap, mostly because of the slow build"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 17,
+    "winner": "Cut 1",
+    "confidence": "clear",
+    "deciding_factor": "Ending: after a charged vow ('As long as I draw breath... no one will hurt you again'), Cut 1 closes on an open mystery ('I know almost nothing about the man I married'); Cut 2 opens on a calm hearth shot and closes on a resolved confession.",
+    "cut1_problems": [
+      "Opens mid-conversation: 'I would do it again'. Do what? The attack is never shown or named, and her bandaged hands are never explained",
+      "After the cut at 15.5s the tone flips to playful banter about his hair and nesting birds, and the intensity drains away",
+      "The closing line is a reflective mystery, not an unresolved event; it works mainly because the title promises he has a secret"
+    ],
+    "cut2_problems": [
+      "Hook is a calm medium establishing shot by the hearth (washbasin, cloth)",
+      "~5s with no dialogue (~12.5-17.5s)",
+      "Refers to an attack the viewer never sees ('You were bleeding last night', 'Of them?')",
+      "Ends on a resolved, tender confession ('Of losing you.'), so there's no cliffhanger",
+      "Low stakes"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": false}
+  },
+  {
+    "episode": 18,
+    "winner": "Cut 2",
+    "confidence": "clear",
+    "deciding_factor": "Ending: Cut 2 stops at peak peril (a rafter splitting over her as she screams); Cut 1 plays the rescue through to safety, so it ends resolved and gives away the payoff.",
+    "cut1_problems": [
+      "No shot is described for the first 3.3s (just the shouts 'Juliana!' and 'It's my mother's!'), so the clip drops in mid-action with no hint of why she's reaching into a fire",
+      "~8s of near-static cradling (~15-23s) between the beam crash and 'I've got you'",
+      "Ends with them crashing through the window to safety: resolved, no cliffhanger",
+      "Gives away the episode's main payoff (the escape)",
+      "~3.5s tail after the glass shatters"
+    ],
+    "cut2_problems": [
+      "Two jump cuts, and 'What happened?' / 'Fire.' is a flat beat while the room is visibly burning",
+      "Why the ledger matters isn't explained until 'It's my mother's!' at 40.8s"
+    ],
+    "postable": {"Cut 1": false, "Cut 2": true}
+  },
+  {
+    "episode": 19,
+    "winner": "Cut 2",
+    "confidence": "clear",
+    "deciding_factor": "Hook/premise: Cut 2 opens with a scarred stranger bowing 'Your Grace' to a shabby veteran (the hidden-duke premise in 1.3s) and ends on a revenge vow; Cut 1 is mostly silent grief and ends on a resolved embrace.",
+    "cut1_problems": [
+      "After the 'This was our home' opener there are ~9s with no dialogue (~3.3-12.4s: wide shot of the barn loft, hands on a page)",
+      "The last ~10s (~24.3-34.6s) are wordless cuddling and a slow push-in, so more than half the clip has no dialogue",
+      "Ends on a comforting, resolved embrace; his resolve to reclaim what was stolen exists only in the camera note, not on screen",
+      "Grief only and low-energy, with no conflict"
+    ],
+    "cut2_problems": [
+      "'Almost no loyal servants left around her' (6.5s): the jump cut dropped the referent, and 'her' is only explained by 'My mother' at 12.1s",
+      "'Ashburg' and 'the proof' are never explained",
+      "Ends on a vow of future revenge rather than an unresolved event, though it's still a strong pull forward"
+    ],
+    "postable": {"Cut 1": false, "Cut 2": true}
+  },
+  {
+    "episode": 20,
+    "winner": "Cut 1",
+    "confidence": "clear",
+    "deciding_factor": "Stakes: Cut 1 shows a slow-poisoning plot to steal a ducal title ('I've ensured her quiet comfort'); Cut 2 is a low-stakes argument in a barn with no hook and a resolved ending.",
+    "cut1_problems": [
+      "Hook is a conspiratorial line over a man walking to a tea table, with no visual action for mute viewers",
+      "Names 'my cousin Alexander', 'the Dowager' and 'Ashbury' with no setup",
+      "The barn insert (21.2-28.4s) with an unnamed man ('They have reduced you to a peasant') feels disconnected; a new viewer can't tell who Juliana is or how she fits the plot",
+      "Ends on a villain's gloat ('This house will only bow to me') followed by a ~6s silent hold, a soft cliffhanger with no pending event on screen"
+    ],
+    "cut2_problems": [
+      "Opens mid-argument ('If I stop, Seamus, the lung fever in the valley wins'), names Seamus without setup, and has no visual hook",
+      "Ends on a defiant statement ('And I am not finished.'), a resolved character beat rather than a cliffhanger",
+      "'The chapel is gone' and the fever in the valley are never explained",
+      "Two people talking in a barn: low stakes and little to watch on mute",
+      "21.5s, barely over the 20s minimum"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": false}
+  },
+  {
+    "episode": 22,
+    "winner": "Cut 2",
+    "confidence": "toss-up",
+    "deciding_factor": "Both reach the same poison cliffhanger. Cut 2's 'If anyone recognizes you, everything is over' and 'Your Grace?' make the infiltration explain itself, but its ~15s wordless sneak nearly cancels that out against Cut 1's tight 28s.",
+    "cut1_problems": [
+      "Opens on a housekeeper scolding a maid ('keep your eyes and ears where they belong'). It's tense but reads as routine to a new viewer, and the disguise is only implied by 'That was close'",
+      "Jump cut at 17.6s lands at a sickbed with no setup: the old woman is never identified (no 'Your Grace') and the clip skips how Juliana got there"
+    ],
+    "cut2_problems": [
+      "~15s with no dialogue (~10.5-26s: service door, sneaking, doorknob, slow push into the bedchamber); suspenseful, but slow for a feed",
+      "The opening frame is a calm collar adjustment before Prudence pulls her aside",
+      "Three segments and 43s to reach the ending Cut 1 reaches in 28s"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 27,
+    "winner": "Cut 1",
+    "confidence": "slight",
+    "deciding_factor": "Premise: Cut 1's ring reveal ('My lost son wore that exact ring') sells the series' secret-duke hook and cuts the instant before the husband's name is spoken; Cut 2 has the punchier opener but is a generic frame-up.",
+    "cut1_problems": [
+      "Opens on a quiet close-up of hands holding a ring ('This ring...'): intriguing but not a jolt, and on mute it's ~45s of two women talking",
+      "'My lost son wore that ring' is said twice (26.6s and 35.2s)",
+      "'Ashbourne crest' and 'the Peninsula' are unexplained (though 'my lost son' carries the meaning)",
+      "A new viewer can't tell who the people bursting in at the end are",
+      "51.5s and very talky"
+    ],
+    "cut2_problems": [
+      "Opens on a reaction to a line the viewer never heard ('You hear that?!' / 'That is not what I said!')",
+      "Why Juliana is in the room and what the vial is are never explained (it does read as a frame-up)",
+      "No link to the series premise (the husband who is secretly a duke)"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 28,
+    "winner": "Cut 1",
+    "confidence": "slight",
+    "deciding_factor": "Hook: Cut 1 opens with a locket ripped off her neck (physical, works on mute), and Catherine's taunt then explains who Juliana is; Cut 2 is tighter but never explains why she is the one being dragged off.",
+    "cut1_problems": [
+      "Continuity jump at 15.8s: Juliana is 'freezing in the doorway' moments after a guard was holding her",
+      "Catherine's taunting monologue (~22-34s) runs long",
+      "50.8s across 3 segments"
+    ],
+    "cut2_problems": [
+      "The opening (an old woman shouting in bed) has a strong line but is visually static",
+      "Never explains why Juliana is dragged off or why 'this book of weeds' would hang her; the witch/healer framing is missing",
+      "'Drag her to the wet cells' is briefly ambiguous: the Duchess or Juliana?"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 30,
+    "winner": "Cut 2",
+    "confidence": "slight",
+    "deciding_factor": "Ending: Cut 2 lands on Juliana chained in a flooded dungeon, with an explicit clock (she hangs tomorrow); Cut 1 never shows her and ends on the vague 'We stop hiding the prisoner.'",
+    "cut1_problems": [
+      "Hook is two men talking in a corridor, a verbal metaphor ('a rat in your cellar') with nothing for mute viewers",
+      "The heroine never appears, so there's no one to root for",
+      "~8.7s expository line about soup bowls and grates (8.5-17.2s)",
+      "Ends on an ambiguous intention ('We stop hiding the prisoner.') rather than a clear pending event",
+      "Names 'Rupert', 'the Ashcroft girl' and 'the Duchess' with no setup"
+    ],
+    "cut2_problems": [
+      "Opens mid-conversation ('And if she claims she is a healer?'): 'she' is undefined and the shot is static",
+      "'And Juliana?' (18.7s) comes after they have already been plotting against 'her', which may read as a second person; 'before the magistrate tomorrow' is said twice",
+      "~43s of villains talking before the payoff image"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 34,
+    "winner": "Cut 2",
+    "confidence": "slight",
+    "deciding_factor": "Ending: Cut 2 cuts as the sentence is about to be pronounced, right after a defiant refusal ('Then let it be'); Cut 1 ends on a protest in the middle of testimony.",
+    "cut1_problems": [
+      "The hook frame is a high wide establishing shot of the courtroom (tiny figures on mute); the accusation line has to carry it",
+      "Jump cut at 14.3s to Prudence's testimony: the clip never says who she is or that she was coerced (her weeping only hints at it)",
+      "~3.7s of weeping before 'Yes.'",
+      "Ends on a protest ('It was not a ritual!'). The trial is unresolved, but no decisive event is pending"
+    ],
+    "cut2_problems": [
+      "1.2s of silent wide establishing shot before the first line",
+      "~6s silent hold and fade after 'Lady Juliana Ashcroft...', a long tail; the cliffhanger rests on withholding the judge's sentence",
+      "55.6s, close to the 60s cap"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": true}
+  },
+  {
+    "episode": 40,
+    "winner": "Cut 2",
+    "confidence": "clear",
+    "deciding_factor": "Ending: Cut 2 closes on the open threat 'And its witch will be dead'; Cut 1 spends that line in its first 6s and ends on a smug, resolved moment at the altar.",
+    "cut1_problems": [
+      "Opens on an over-the-shoulder shot of a man at a balustrade; the punchline ('its witch will be dead') only lands at 5.3s",
+      "~15s with no dialogue (~7.3-22.5s) during the bridal procession",
+      "Villains only: the 'witch' is never named or shown, so there is no protagonist",
+      "Ends on smug smiles at the altar ('ignored cousin'): resolved, no cliffhanger",
+      "'Ashburgh' and 'ignored cousin' are never explained"
+    ],
+    "cut2_problems": [
+      "Hook is a gossipy taunt ('Imagine Juliana seeing this') about someone the clip never shows or explains",
+      "~11s with no dialogue (~9.5-20.4s: a laugh, the balcony, a wide shot)",
+      "Villains only; Juliana never appears",
+      "'This place has always been unlucky for Juliana' points to backstory the clip never shows"
+    ],
+    "postable": {"Cut 1": false, "Cut 2": true}
+  },
+  {
+    "episode": 46,
+    "winner": "Cut 1",
+    "confidence": "clear",
+    "deciding_factor": "Hook/clarity: Cut 1's 'Love doesn't make a Duchess, girl. Paper does.' plus Juliana's 'God married us, Father!' clapback and a halberd standoff, against Cut 2's garbled legal proclamation and jargon-heavy argument over jurisdiction.",
+    "cut1_problems": [
+      "'Then look at this floor honestly': the floor is never shown or explained",
+      "After the cut at 20s, 'Then let it prove that' has no referent ('it' is the council, which this cut never mentions)",
+      "'Lose her twice', 'the Duke it just confirmed' and Catherine in a bridal gown are references a new viewer can't place",
+      "Shows Alexander already confirmed as Duke, a late-series payoff for a new viewer (softened by the title)",
+      "The ending is a whispered scheme ('Ten days is plenty of time.') rather than a pending event; 52s and dialogue-dense"
+    ],
+    "cut2_problems": [
+      "Hook is a formal proclamation with a garbled key word ('Crown scesion'); not a scroll-stopper",
+      "A jargon-heavy argument (peerage court, High Religious Council) between two men; Juliana never appears, and a new viewer may not realize a marriage is being annulled",
+      "'Lose her twice' is never explained",
+      "Alexander claims a Duke's rights, the same late-series spoiler as Cut 1",
+      "The closing threat is abstract (a council ruling in ten days)"
+    ],
+    "postable": {"Cut 1": true, "Cut 2": false}
+  },
+  {
+    "episode": 48,
+    "winner": "neither",
+    "confidence": "clear",
+    "deciding_factor": "Both are villain-only planning scenes with no hook, no victim on screen and no pending event. If forced, Cut 1 (tighter, opens on a physical grab).",
+    "cut1_problems": [
+      "The hook refers to an event the viewer never saw ('Everyone in that chapel saw me humiliated today')",
+      "Unexplained references pile up: 'that household', 'the Duke', 'Father Thomas', 'that hearing'",
+      "Villain only: no protagonist, and the target of the plot is never named",
+      "Ends on an instruction ('make sure no one sees him arrive'): a plan, not an unresolved event",
+      "Visually static: two women talking, with a coin purse as the only prop; 'the Duke has bailiffs' also lets slip that the hero has already won his title"
+    ],
+    "cut2_problems": [
+      "Opens on a silhouette at a window; the first line comes at 2.4s",
+      "The 'ten days' monologue is addressed to an absent 'Alexander'; 'that healer's crown', 'council' and 'decree' are never explained (and 'crown' gives away the heroine's rise)",
+      "Continuity glitch at the 26.7s cut: Catherine 'releases Agnes', who was never shown in this cut",
+      "~6.7s wordless tail (~48.5-55.2s) that ends on a fade, with no event",
+      "55.2s for a monologue plus an errand, villains only"
+    ],
+    "postable": {"Cut 1": false, "Cut 2": false}
+  }
+]

@@ -1,0 +1,965 @@
+{
+  "range": "1-25",
+  "aliases": {
+    "LADY JULIANA": "Juliana (Ashcroft), the protagonist. Label used in eps 1-3 and again in 21-24; the same person as JULIANA. Her father calls her \"Miss Ashcroft\" (ep 5); Prudence passes her off as the maid \"Julian\" (ep 22).",
+    "JULIANA": "Juliana (Ashcroft), the protagonist. Label used in eps 4-20 and 25.",
+    "THE BEARDED STRANGER": "Alexander, the scarred soldier who rescues Juliana and proposes (ep 3); secretly the presumed-dead Duke.",
+    "MYSTERIOUS BEARDED MAN": "Alexander, Juliana's new husband (eps 4-6).",
+    "SCARRED BEARDED MAN": "Alexander (ep 7).",
+    "ALEXANDER": "Alexander. Label used from ep 8 on (Juliana first says his name in ep 9). The informant calls him \"Your Grace\" (ep 19); Rupert calls him \"my cousin Alexander\" (ep 20). The Dowager Duchess is his mother.",
+    "THE FORMER GROOM": "Gerald (Harrington), Juliana's ex-fiance who jilts her for Clarissa (eps 1-3 and 9).",
+    "GERALD": "Gerald Harrington (eps 4, 5, 7, 11-13). The surname comes from the thug's confession in ep 16; the main recurring antagonist.",
+    "LADY IN GOLD GOWN": "Clarissa, Juliana's sister and Gerald's new bride (eps 1-3; named in ep 1 dialogue).",
+    "CLARISSA": "Clarissa (eps 4, 5, 12, 13).",
+    "ARISTOCRATIC WOMAN": "Unnamed noblewoman in lavender with a lace parasol who arrives with Gerald (ep 7). Most likely Clarissa, but she is never named and calls Juliana by name rather than \"sister\".",
+    "MATRIARCH": "Lady Ashcroft (first name Barbara), Juliana's stepmother and the family matriarch (ep 1).",
+    "OFF-SCREEN VOICE": "Lady Ashcroft, the matriarch (ep 2; the camera block shows her speaking).",
+    "NOBLE MATRIARCH": "Lady Ashcroft, the stepmother (ep 3).",
+    "LADY ASHCROFT": "Lady Ashcroft, a.k.a. \"Barbara\", Juliana's stepmother (eps 4-5; Juliana calls her Barbara in ep 5).",
+    "LORD ASHCROFT": "Lord Ashcroft, Juliana's father, who carries a gold-topped cane. Speaks as BLOND NOBLEMAN in ep 2 and as LORD ASHCROFT in ep 5; silent on screen in eps 1, 3, 4.",
+    "BLOND NOBLEMAN": "AMBIGUOUS. Ep 2: Juliana's father, Lord Ashcroft (the camera blocks put the lines on \"Juliana's father\"). Ep 9: an unnamed lord in a manor study whom Gerald calls \"my Lord\" and who panics at the rumor that the Duke lives. The shared label suggests Lord Ashcroft, but the reaction fits the usurper Rupert (ep 20). Unresolved within eps 1-25.",
+    "THE PRIEST": "The officiating priest who marries Juliana and Alexander (ep 4).",
+    "ROYAL GUARD": "Lead guard ordered to remove Juliana; knocked down by Alexander (ep 3).",
+    "PEASANT MOTHER": "Village mother whose feverish son Juliana cures (ep 9).",
+    "CONSTABLE": "The constable Gerald brings to search the cottage; he arrests Alexander (eps 11-12). Silent in eps 13-14 (ep 14 calls him \"Police Constable\").",
+    "THUG WITH CAP": "Leader of the three thugs Gerald hires (eps 15-16).",
+    "BALD THUG": "Second hired thug (eps 15-16).",
+    "TALL THUG": "Third hired thug with the club (ep 15); probably the same man as THIRD THUG in ep 16.",
+    "THIRD THUG": "Third hired thug (ep 16); probably TALL THUG from ep 15.",
+    "ELDER VILLAGER": "Unnamed elder villager who offers the empty barn (ep 19); the O.S. line \"You saved mine, too\" seems to belong to a second villager. Possibly Seamus (ep 20), unconfirmed.",
+    "INFORMANT": "Alexander's loyal bald, scarred spy (ep 19).",
+    "RUPERT": "Lord Rupert, Alexander's cousin, who is usurping the dukedom and implies he is behind the Dowager's decline (ep 20; \"Lord Rupert\" in ep 22).",
+    "CATHERINE": "Lady Catherine, Rupert's intended and the would-be duchess (ep 20).",
+    "NOBLEWOMAN": "Lady Catherine (ep 24); Juliana names her as her attacker in ep 25.",
+    "SEAMUS": "Older villager who tries to take Juliana's basket in the barn (ep 20).",
+    "PRUDENCE": "Village girl, sister of the sick boy Toby, who smuggles Juliana into the manor (eps 21-24).",
+    "HOUSEKEEPER": "The Ashbury Manor housekeeper (ep 22)."
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "summary": "Juliana walks down the aisle in her late mother's gown and finds her fiance Gerald holding the hand of her sister Clarissa. He jilts her at the altar, her father will not look at her, and the family matriarch (her stepmother) crowns Clarissa the jewel of the family, until Juliana's grief hardens into cold resolve.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:32.80",
+            "end": "00:43.90"
+          },
+          {
+            "start": "00:54.60",
+            "end": "01:08.80"
+          },
+          {
+            "start": "02:04.20",
+            "end": "02:18.00"
+          }
+        ],
+        "duration_sec": 39.1,
+        "hook": "Low angle up the aisle at the groom and a woman in gold at the altar; Juliana: \"Gerald?\" then \"Why are you holding her hand?\" (+2.60 s)",
+        "cliffhanger": "Gerald turns his back: \"I cannot marry a woman of such plainness and low value...\" \"...when Clarissa is the true jewel of the county.\" Juliana's fist knots in her mother's gown and her tearful eyes harden as the drone peaks; cut to black. Open question: what will the jilted bride do now?",
+        "why": "A betrayal you get instantly, in three beats (groom with another woman, the \"sister\" twist, a vicious insult), ending on the moment humiliation turns to resolve.",
+        "cold_viewer_risk": "Low. \"Clarissa\" is named without an introduction, but \"sister\" has already made the relationship clear.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "01:21.40",
+            "end": "01:59.50"
+          }
+        ],
+        "duration_sec": 38.1,
+        "hook": "Juliana, in her wedding gown, drops to her knees beside her seated father: \"Tell them this is a mistake.\" (+0.00 s)",
+        "cliffhanger": "After the matriarch's \"Clarissa is the jewel of this family,\" Juliana turns to Gerald: \"So that is what I was worth to you?\" The cut comes before he answers. Open question: will anyone stand up for her?",
+        "why": "The family-betrayal angle: a father who will not look at her and \"I am the daughter they choose,\" ending on an unanswered question.",
+        "cold_viewer_risk": "Low-moderate. The matriarch is never identified (she is the stepmother), and Clarissa is named before the viewer can place her.",
+        "score": 7
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A wedding-day betrayal that explains itself, plus a cruel sister and a built-in revenge cliffhanger; the series' best entry point."
+    },
+    {
+      "episode": 2,
+      "summary": "Gerald repeats that Juliana is too plain for him, her father orders her to accept it, and Clarissa mocks her old-fashioned gown. When Gerald tells her to leave \"with some dignity,\" Juliana turns the humiliation around with a composed public speech exposing what his word is worth.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:12.00"
+          },
+          {
+            "start": "00:47.60",
+            "end": "00:56.70"
+          },
+          {
+            "start": "01:09.30",
+            "end": "01:16.50"
+          }
+        ],
+        "duration_sec": 28.3,
+        "hook": "Groom at the altar to his bride: \"I cannot marry you, Juliana.\" (+0.00 s), then \"You are far too plain...\" \"...far too silent...\"",
+        "cliffhanger": "Gerald: \"Go home quietly, Juliana. At least leave this chapel with some dignity.\" Juliana: \"Dignity?\" A steely smile breaks through her tears, and the cut lands before her answer. Open question: what is she about to say to him?",
+        "why": "Escalating humiliation (groom, then the sister's \"kitchen maid\" jab) cut right on the turn, so the viewer has to watch for the comeback.",
+        "cold_viewer_risk": "Low. It plays as a self-contained jilting; it largely repeats ep 1's material.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "01:16.50",
+            "end": "01:50.00"
+          }
+        ],
+        "duration_sec": 33.5,
+        "hook": "Juliana, standing tall in white: \"You abandoned a woman who trusted you...\" (+0.00 s)",
+        "cliffhanger": "\"I may leave this chapel without a husband...\" \"...but I will not leave it believing I was the one who should be ashamed.\" A mic-drop; the only open question is what becomes of her now (weak).",
+        "why": "The shareable \"she clapped back\" payoff, but it resolves rather than hangs.",
+        "cold_viewer_risk": "Low. The speech itself explains the betrayal.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A classic humiliation-to-defiance turn, though it overlaps ep 1 and the episode ends resolved."
+    },
+    {
+      "episode": 3,
+      "summary": "The matriarch disowns Juliana and orders guards to drag her from her mother's chapel; a scarred, bearded stranger stops them, drops a guard with one blow, and kneels in the aisle with a silver ring, asking her to marry him.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:58.20",
+            "end": "01:25.50"
+          },
+          {
+            "start": "01:56.00",
+            "end": "02:25.75"
+          }
+        ],
+        "duration_sec": 57.05,
+        "hook": "Matriarch: \"Guards! Remove her!\" (+0.10 s); red-coated guards seize the bride as she screams \"Let me go!\"",
+        "cliffhanger": "On one knee, ring held high: \"Lady Juliana... accept my hand.\" Hold on her tearful, trembling smile. Open question: will she marry a total stranger?",
+        "why": "Damsel, mystery rescuer, one-punch knockout, shock proposal: the series' core fantasy in one clip, ending on a question.",
+        "cold_viewer_risk": "Low. Who the stranger is stays deliberately unknown; at 57 s it runs long.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:38.40",
+            "end": "01:12.80"
+          }
+        ],
+        "duration_sec": 34.4,
+        "hook": "Juliana: \"And what happens to me?\" Matriarch: \"You leave.\" (+2.10 s)",
+        "cliffhanger": "Dragged off screaming \"Please! Someone!\", then a tall scarred stranger strides up the aisle: \"Take your hands off her.\" Cut on his advance. Open question: who is he, and what will he do?",
+        "why": "Cold banishment ending on the rescuer's entrance, a clean mystery cliffhanger that saves the proposal.",
+        "cold_viewer_risk": "Low. \"Your father has chosen his family... and it isn't you\" explains the disowning.",
+        "score": 7
+      },
+      "promo_potential": "strong",
+      "potential_reason": "The signature moment: a stranger saves the abandoned bride and proposes on the spot."
+    },
+    {
+      "episode": 4,
+      "summary": "Gerald and Clarissa mock the kneeling stranger as a \"penniless nobody\"; Juliana tests his motives, accepts his vow, and is married on the spot. She cuts down Gerald's outrage, Lady Ashcroft disowns her, and the couple walk out into the daylight.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:03.20",
+            "end": "00:15.00"
+          },
+          {
+            "start": "01:50.00",
+            "end": "02:14.80"
+          }
+        ],
+        "duration_sec": 36.6,
+        "hook": "Gerald sneers at the kneeling stranger: \"Look at him.\" \"A penniless nobody for a discarded bride.\" (+1.80 s); Clarissa bursts out laughing.",
+        "cliffhanger": "Seconds after \"husband and wife!\", Gerald rages \"You have thrown yourself away!\" \"For a penniless nobody!\", Juliana cuts him down, and her stepmother screams \"You are disowned!\" Cut. Open question: she has given up everything for a stranger; who is he really?",
+        "why": "The \"penniless nobody\" sneer plays against the title (he is a Duke), and the cut lands on a fresh blow instead of the happy exit.",
+        "cold_viewer_risk": "Low-moderate. The proposal happened in ep 3; her acceptance is only implied by the pronouncement.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:52.80",
+            "end": "01:28.80"
+          }
+        ],
+        "duration_sec": 36.0,
+        "hook": "Juliana to the kneeling stranger: \"If this is pity, take back your ring.\" (+0.80 s)",
+        "cliffhanger": "After his \"It is a vow\" and her \"Then I accept,\" the trembling priest asks \"Are you certain?\" Cut on her father's bowed head before she answers.",
+        "why": "The romance angle: her pride against his vow, ending on a question.",
+        "cold_viewer_risk": "Moderate. Why a stranger is proposing comes from ep 3.",
+        "score": 6
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Marriage to the mystery man plus public disownment, but the hook replays ep 3 and the episode ends on a happy exit."
+    },
+    {
+      "episode": 5,
+      "summary": "On the cathedral steps Lord Ashcroft strips Juliana of name, dowry, and inheritance. Her stepmother Lady Ashcroft (Barbara) hurls her late mother's ledger into the mud as Clarissa and Gerald laugh; her new husband retrieves it, warns Gerald, and leads her away into the rain.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:51.80",
+            "end": "01:09.00"
+          },
+          {
+            "start": "01:31.00",
+            "end": "01:41.50"
+          }
+        ],
+        "duration_sec": 27.7,
+        "hook": "Her stepmother, jeweled hand on Juliana's book: \"Then you should have guarded it better.\" (+0.20 s); she wrenches it away and hurls it into the mud (\"Barbara, don't!\").",
+        "cliffhanger": "Gerald jeers \"A noblewoman reduced to a beggar's wife!\" The scarred husband, kneeling beside her, looks up: \"Choose your next words carefully.\" Gerald's grin wavers. Cut. Open question: what will this \"beggar\" do?",
+        "why": "Fast, visual cruelty (her mother's legacy in the dirt, villains laughing) flipped by a quiet, lethal threat from the underdog husband.",
+        "cold_viewer_risk": "Low. Clarissa's line explains it is her mother's legacy; \"Barbara\" and the family ties go unexplained.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:06.60",
+            "end": "00:48.80"
+          }
+        ],
+        "duration_sec": 42.2,
+        "hook": "Her father on the cathedral steps: \"You will not leave this church carrying the Ashcroft name.\" (+0.20 s)",
+        "cliffhanger": "Dowry revoked, inheritance revoked, \"dead to the Ashcroft family\", then the stepmother steps forward: \"And the ledger...\" \"...that belongs to this family.\" Cut as she closes in. Open question: what will she do to it?",
+        "why": "Disownment escalation ending on a new threat to her last keepsake.",
+        "cold_viewer_risk": "Low. Very explicit, if talky and long (42 s).",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Iconic heirloom-in-the-mud cruelty and a husband who silences the bully."
+    },
+    {
+      "episode": 6,
+      "summary": "The newlyweds trudge through a night storm to his leaky woodland cottage. Juliana admits she is disappointed, \"but not because of you,\" cleans to keep from grieving, and finds unexpected peace by the fire he builds.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:24.00",
+            "end": "01:01.30"
+          }
+        ],
+        "duration_sec": 37.3,
+        "hook": "A tiny stone cottage appears through misty trees; the ex-noblewoman: \"That is it?\" (+2.50 s)",
+        "cliffhanger": "Inside the leaking cottage he asks \"You are not disappointed?\" She answers \"I am.\" The cut comes before \"But not because of you.\" Open question: does she regret marrying him? (a deliberate tease)",
+        "why": "The only friction in a cozy episode: the riches-to-rags reveal plus an ambiguous answer.",
+        "cold_viewer_risk": "Moderate. Low stakes for newcomers, and the cut slightly misrepresents her feelings.",
+        "score": 4
+      },
+      "runner_up": null,
+      "promo_potential": "weak",
+      "potential_reason": "A quiet transition episode: no antagonist, no danger, and a warm, resolved ending."
+    },
+    {
+      "episode": 7,
+      "summary": "Gerald and a parasol-carrying aristocrat (probably Clarissa) find Juliana weeding outside the cottage and mock her poverty. When Gerald threatens to make her \"beggar\" husband disappear, the husband walks out of the fog with an armful of firewood, and his silent stare sends them fleeing.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:50.80",
+            "end": "01:30.00"
+          }
+        ],
+        "duration_sec": 39.2,
+        "hook": "Gerald: \"You chose that scarred beggar over a life of comfort.\" (+0.70 s)",
+        "cliffhanger": "Gerald threatens \"I have enough influence to make a beggar disappear.\" \"Where is that beggar husband?\" The towering husband walks out of the fog, drops his firewood, and stares Gerald down until Gerald stammers \"What are you staring at?\" Cut. Open question: what happens next?",
+        "why": "The \"beggar\" insult set up and paid off; the silent giant wins the scene without a word.",
+        "cold_viewer_risk": "Low. Gerald's lines define everyone; his companion is unnamed.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:21.00",
+            "end": "00:50.80"
+          }
+        ],
+        "duration_sec": 29.8,
+        "hook": "Juliana rises from her weeding to face the carriage visitors; the parasol-carrying aristocrat: \"This is where you live now?\" (+1.00 s)",
+        "cliffhanger": "\"You were born a lady.\" / \"And I remain one.\" A dignified comeback; the open question (how will Gerald retaliate?) is weak.",
+        "why": "Riches-to-rags mockery answered with a strong comeback.",
+        "cold_viewer_risk": "Low.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "A satisfying silent-protector beat, but no physical clash, and it resolves when they flee."
+    },
+    {
+      "episode": 8,
+      "summary": "Over her mother's herbal book, Alexander shows a soldier's knowledge of healing plants. When Juliana offers to trim his hair and beard he catches her wrist (\"Not yet\"), and he admits only \"some\" of his scars are from the war, as she realizes wealth is not everything.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:30.10",
+            "end": "00:51.30"
+          },
+          {
+            "start": "01:00.20",
+            "end": "01:04.30"
+          }
+        ],
+        "duration_sec": 25.3,
+        "hook": "Juliana reaches for his wild hair and beard: \"I could trim them for you.\" His scarred hand snaps around her wrist mid-air (+1.80 s): \"Not yet.\"",
+        "cliffhanger": "\"And the scars... were they from the war?\" / \"Some were.\" He looks away, memories clouding. Open question: what is he hiding, and why must the beard stay?",
+        "why": "Turns a cozy scene into an identity tease that pays off the title (the beard is a disguise).",
+        "cold_viewer_risk": "Moderate. It is subtle, and the payoff relies on the title.",
+        "score": 5
+      },
+      "runner_up": null,
+      "promo_potential": "weak",
+      "potential_reason": "A gentle bonding episode; only the beard and scar teases create pull."
+    },
+    {
+      "episode": 9,
+      "summary": "Juliana cures a peasant boy's fever with her mother's remedies, and Alexander warns that village gossip is dangerous. In a manor study, Gerald tells a blond lord of rumors that a scarred veteran resembles the late Duke, leaving the lord whispering \"Impossible.\"",
+      "best": {
+        "segments": [
+          {
+            "start": "01:14.80",
+            "end": "01:55.50"
+          }
+        ],
+        "duration_sec": 40.7,
+        "hook": "Alexander, turning from the door after the grateful mother leaves: \"You cannot let the whole village start talking about you.\" (+0.30 s)",
+        "cliffhanger": "In a fire-lit study, Gerald reports a scarred veteran who \"resembles the late Duke\"; the lord snaps \"Where?\", then alone whispers \"Impossible.\" Extreme close-up of his eye. Open question: is the \"beggar\" husband the dead Duke?",
+        "why": "Hands the viewer the show's secret (dramatic irony with the title) and a frightened villain.",
+        "cold_viewer_risk": "High. The blond lord is unnamed, and his label matches Juliana's father in ep 2; Gerald appears as \"The Former Groom\"; the jump from cottage to study only connects through the title.",
+        "score": 6
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:13.50"
+          },
+          {
+            "start": "00:31.00",
+            "end": "00:56.00"
+          }
+        ],
+        "duration_sec": 38.5,
+        "hook": "Frantic pounding on the cottage door at night (+2.00 s); a soaked mother bursts in: \"My boy is burning with fever!\"",
+        "cliffhanger": "Juliana spoons in her herbal brew; the mother cries \"Why isn't it working?\" and Juliana raises a hand: \"Wait.\" Cut before the fever breaks.",
+        "why": "A clean, self-contained life-or-death beat that shows off the heroine's gift.",
+        "cold_viewer_risk": "Low.",
+        "score": 6
+      },
+      "promo_potential": "ok",
+      "potential_reason": "The first hint of the Duke twist and a healing rescue, but neither is high-voltage, and the villain scene is confusing out of context."
+    },
+    {
+      "episode": 10,
+      "summary": "Alexander staggers home bleeding and plays it down; Juliana orders him to sit and take off his shirt, revealing a torso covered in battle scars. Tending his wounds turns into charged banter and his confession that her touch is \"the only medicine that has ever eased my pain.\"",
+      "best": {
+        "segments": [
+          {
+            "start": "00:02.10",
+            "end": "00:11.50"
+          },
+          {
+            "start": "00:23.00",
+            "end": "00:39.20"
+          },
+          {
+            "start": "01:03.00",
+            "end": "01:26.50"
+          }
+        ],
+        "duration_sec": 49.1,
+        "hook": "The door bangs open on Alexander panting in the doorway, his chest soaked in blood (+0.50 s); Juliana: \"Alexander!\"",
+        "cliffhanger": "Inches apart by the fire, he presses her hands to his bare chest: \"Your touch is the only medicine that has ever eased my pain.\" Cut on the confession. Open question: will they finally kiss?",
+        "why": "Blood hook, shirt-off scar reveal (\"It is only a scratch.\" / \"Then removing your shirt should not trouble you.\"), slow-burn confession: core romance fuel for this genre.",
+        "cold_viewer_risk": "Low. Who wounded him is never said, which only adds intrigue.",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:14.30",
+            "end": "00:51.50"
+          }
+        ],
+        "duration_sec": 37.2,
+        "hook": "Juliana points at the chair: \"Sit down.\" (+0.20 s) ... \"Now.\"",
+        "cliffhanger": "His shirt comes off to show a torso of jagged scars (\"Dear God\"). He says \"It is over\"; she answers \"Your scars disagree.\" Open question: what happened to him?",
+        "why": "The same single-scene episode recut toward the scar mystery instead of the romance, carried by her commanding-wife energy.",
+        "cold_viewer_risk": "Low.",
+        "score": 6
+      },
+      "promo_potential": "ok",
+      "potential_reason": "A strong romance and visual hook, but no antagonist or outside threat."
+    },
+    {
+      "episode": 11,
+      "summary": "Gerald returns with a constable and accuses Alexander of stealing his gold pocket watch. The constable ransacks the cottage while Gerald baits Alexander to strike him, then \"finds\" the watch in Alexander's coat: a frame-up that leaves Gerald laughing.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:16.80",
+            "end": "00:27.00"
+          },
+          {
+            "start": "00:54.00",
+            "end": "01:03.80"
+          },
+          {
+            "start": "01:21.30",
+            "end": "01:52.75"
+          }
+        ],
+        "duration_sec": 51.45,
+        "hook": "Gerald, jabbing a finger: \"Your husband stole my gold pocket watch!\" (+0.00 s)",
+        "cliffhanger": "The constable pulls a gleaming gold watch from Alexander's coat; Juliana gasps, Alexander grasps the frame-up, and Gerald crows \"There it is. Ha!\" Freeze on the swinging watch. Open question: how do they escape a planted crime?",
+        "why": "Accusation, the ransacking of their home, then a planted-evidence gut punch; Alexander's restrained V.O. (\"One blow would end this.\") adds tension.",
+        "cold_viewer_risk": "Low. A frame-up explains itself.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:27.00",
+            "end": "00:54.00"
+          }
+        ],
+        "duration_sec": 27.0,
+        "hook": "Gerald laughs: \"Of course you would defend him. You married a beggar!\" (+2.30 s); Alexander: \"Choose your next words carefully.\"",
+        "cliffhanger": "Juliana bars the door and Gerald dares them; Alexander answers \"Search it.\" \"Let them.\" Open question: what will the search turn up?",
+        "why": "The stand-off before the search, ending on an ominous invitation.",
+        "cold_viewer_risk": "Low-moderate. The theft accusation sits just before this cut (\"Alexander would never steal from you\" implies it).",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A planted-evidence frame-up with a smug villain and a clean freeze-frame cliffhanger."
+    },
+    {
+      "episode": 12,
+      "summary": "As the constable moves to arrest Alexander, Juliana insists the watch was planted. Clarissa offers a deal: dig her emerald signet ring out of frozen, razor-sharp blackthorn briars barehanded before the magistrate arrives, or watch her husband hang. Juliana demands to know where the garden is.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:09.10"
+          },
+          {
+            "start": "00:43.70",
+            "end": "01:24.70"
+          }
+        ],
+        "duration_sec": 50.1,
+        "hook": "The constable raises iron cuffs: \"Put out your hands, veteran. You are under arrest for theft.\" (+0.50 s); Juliana throws herself in front of her husband.",
+        "cliffhanger": "Clarissa whispers \"Fail, or refuse, and your husband hangs from the gallows\"; Alexander begs her not to; Juliana, eyes blazing: \"Tell me where the garden is.\" Open question: will she really crawl into the thorns?",
+        "why": "Stakes (the gallows) and sadistic terms stated outright; the heroine's choice is the cliffhanger.",
+        "cold_viewer_risk": "Low. Everything needed is spoken on screen.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:23.70",
+            "end": "00:46.60"
+          }
+        ],
+        "duration_sec": 22.9,
+        "hook": "Gerald, riding crop in hand: \"Then perhaps your wife should explain why it was found in your coat.\" (+0.00 s)",
+        "cliffhanger": "\"Name your price, Clarissa.\" ... \"What do you want?\" / \"I want to see you crawl, sister.\" Cut before the terms. Open question: what will she make her do?",
+        "why": "A villain-bargaining scene ending on a chilling line, before the specifics are spent.",
+        "cold_viewer_risk": "Moderate. The frame-up is compressed into a single line.",
+        "score": 7
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A sadistic ultimatum with life-or-death stakes and a defiant heroine."
+    },
+    {
+      "episode": 13,
+      "summary": "At the frozen blackthorn garden a handcuffed Alexander begs Juliana not to go; she crawls in barehanded while Clarissa and Gerald jeer from the terrace, bloodied and screaming, until her fingers close on the emerald ring.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:04.20",
+            "end": "00:18.80"
+          },
+          {
+            "start": "00:53.50",
+            "end": "01:29.00"
+          }
+        ],
+        "duration_sec": 50.1,
+        "hook": "A handcuffed husband before a wall of frozen thorns: \"Juliana, look at those thorns. You cannot do this.\" (+1.20 s)",
+        "cliffhanger": "Thorns pierce her hands; Alexander breaks free and charges, and the constable slams him into the gate as he roars \"Juliana!\" She is still deep in the briars. Open question: will she find the ring before the thorns destroy her?",
+        "why": "Visceral sacrifice, gloating villains, and a chained husband screaming her name, cut at peak agony before the find.",
+        "cold_viewer_risk": "Low-moderate. Gerald's \"Your husband's freedom is somewhere in that garden\" covers the task; why a ring frees him comes from ep 12. Graphic.",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:24.20",
+            "end": "00:47.00"
+          }
+        ],
+        "duration_sec": 22.8,
+        "hook": "The handcuffed husband: \"I would rather face the gallows than watch you hurt yourself for me.\" (+0.00 s)",
+        "cliffhanger": "\"I will not abandon you now.\" Clarissa: \"That garden has swallowed better women than you.\" Juliana kneels at the edge of the briars. Open question: will she go in?",
+        "why": "Devotion and stakes before the ordeal, gore-free (useful where graphic content is restricted).",
+        "cold_viewer_risk": "Low-moderate. Why a garden saves him from the gallows is not stated.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Peak self-sacrifice spectacle with clear stakes (graphic)."
+    },
+    {
+      "episode": 14,
+      "summary": "Juliana walks out of the briars with the ring and wins Alexander's release; he carries her home, bandages her shredded hands by the fire, and vows no one will ever hurt her for protecting him again, his fist clenching over a bucket of bloody water.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:05.60",
+            "end": "00:29.50"
+          },
+          {
+            "start": "00:47.00",
+            "end": "00:55.50"
+          },
+          {
+            "start": "01:16.00",
+            "end": "01:27.63"
+          }
+        ],
+        "duration_sec": 44.03,
+        "hook": "Torn and scratched, she steps out of the thorns holding up an emerald ring: \"I found it.\" (+2.10 s), then \"Now release my husband.\"",
+        "cliffhanger": "\"No one will ever hurt you for protecting me again.\" A low shot of a bucket of blood-dark water as his scarred knuckles clench into a fist on a bass boom. Open question: what revenge is coming?",
+        "why": "Bloody triumph (\"What have they done to you?\" / \"Nothing they didn't promise.\"), a tender beat (\"But I didn't lose you.\"), then a revenge sting.",
+        "cold_viewer_risk": "Moderate. The ordeal and the ring deal come from eps 12-13; why her hands are shredded is implied, never explained.",
+        "score": 6
+      },
+      "runner_up": null,
+      "promo_potential": "ok",
+      "potential_reason": "An aftermath episode whose hook re-uses ep 13; its strength is the revenge tease at the end."
+    },
+    {
+      "episode": 15,
+      "summary": "Three thugs smash and uproot Juliana's medicinal garden at night; she stands her ground and is shoved into the mud, blood seeping through her bandages, until Alexander charges out of the mist and plants himself between her and the armed men.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:03.50",
+            "end": "00:15.80"
+          },
+          {
+            "start": "00:44.20",
+            "end": "01:26.00"
+          }
+        ],
+        "duration_sec": 54.1,
+        "hook": "A thug brings his club down and smashes a planter box with a splintering crash (+0.10 s)",
+        "cliffhanger": "Alexander plants himself between her and three armed thugs; the leader sneers \"What? You want to fight us, veteran?\" Hold on Juliana's frightened eyes on a cello swell. Open question: the fight is about to start.",
+        "why": "Vandalism, a wounded woman shoved into the mud, the protector's arrival, a fight about to break out: textbook escalation, cut at the peak.",
+        "cold_viewer_risk": "Low. Her bandaged hands go unexplained but don't block understanding.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:07.50",
+            "end": "00:47.30"
+          }
+        ],
+        "duration_sec": 39.8,
+        "hook": "Juliana bursts out of the cottage in her bandages, frozen in horror: \"Stop! What are you doing?!\" (+1.00 s)",
+        "cliffhanger": "The thug snarls \"Get out of the way!\" and she answers \"No.\" Cut on the stand-off, just before he shoves her.",
+        "why": "The same scene cut on her courage, ending on the threat before the violence (a gentler version).",
+        "cold_viewer_risk": "Low.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Clear villainy against a hurt heroine and a fight about to break out."
+    },
+    {
+      "episode": 16,
+      "summary": "Alexander catches a thug's club barehanded, overpowers all three, and lifts the leader by the throat until he confesses that \"Gerald Harrington paid us!\" The thugs flee, and an awed Juliana says he fought like he had done it a hundred times.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:31.00"
+          },
+          {
+            "start": "00:40.80",
+            "end": "00:55.20"
+          }
+        ],
+        "duration_sec": 45.4,
+        "hook": "Three armed thugs face the lone veteran: \"Move aside, soldier.\" (+2.10 s)",
+        "cliffhanger": "Pinned to the wall: \"Who?!\" / \"Harrington! Gerald Harrington paid us!\" Juliana whispers \"Gerald...\" Open question: what will Alexander do to Gerald?",
+        "why": "A satisfying one-against-three beatdown (he catches a club barehanded), then a named mastermind as the sting.",
+        "cold_viewer_risk": "Low. Her stricken \"Gerald...\" tells you he is someone she knows.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:59.00",
+            "end": "01:23.19"
+          }
+        ],
+        "duration_sec": 24.19,
+        "hook": "Blood trickles from Alexander's split knuckles as his hand curls into a fist (+0.00 s)",
+        "cliffhanger": "\"You fought like you've done this a hundred times.\" / \"A soldier learns things he wishes he could forget.\" Open question: who was he before?",
+        "why": "A quiet coda that teases his hidden past.",
+        "cold_viewer_risk": "Moderate. Low energy without the fight.",
+        "score": 5
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Action payoff plus a named-mastermind reveal."
+    },
+    {
+      "episode": 17,
+      "summary": "The morning after, Alexander repairs the trampled garden and vows no one will hurt Juliana again; by the hearth she tends his knuckles, admits she feared losing him, and they embrace, though he again will not let her trim his hair (\"Not yet\").",
+      "best": {
+        "segments": [
+          {
+            "start": "00:21.00",
+            "end": "00:36.50"
+          },
+          {
+            "start": "01:27.50",
+            "end": "01:52.00"
+          }
+        ],
+        "duration_sec": 40.0,
+        "hook": "Alexander, mid-repair in the wrecked garden: \"I would do it again.\" (+0.50 s), then, kneeling: \"As long as I draw breath...\" \"...no one will hurt you again.\"",
+        "cliffhanger": "By the fire she teases that she will \"save you from the birds\" (his beard). He catches her wrist: \"Not yet.\" Her V.O.: \"I know almost nothing about the man I married.\" Open question: who is he?",
+        "why": "The episode's best swoon line (\"I just did.\") plus the identity tease that keeps the title's promise.",
+        "cold_viewer_risk": "Moderate. Soft hook, and \"those men\" are never explained.",
+        "score": 4
+      },
+      "runner_up": null,
+      "promo_potential": "weak",
+      "potential_reason": "A cozy romance interlude with no threat; only the \"Not yet\" mystery creates pull."
+    },
+    {
+      "episode": 18,
+      "summary": "Juliana wakes to fire under the bedroom door and Alexander bursts in to lead her out; she runs back for her mother's ledger as the ceiling collapses, he shields her from a falling beam, and they escape through a window. Outside, their home in ashes, he vows vengeance on whoever set the fire.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:09.50"
+          },
+          {
+            "start": "00:20.10",
+            "end": "00:28.90"
+          },
+          {
+            "start": "00:52.50",
+            "end": "01:26.50"
+          }
+        ],
+        "duration_sec": 52.3,
+        "hook": "Flames lick under a bedroom door as smoke pours in (+0.00 s); Juliana wakes coughing and screams \"Alexander!\"",
+        "cliffhanger": "Clutching the scorched ledger, she looks up as a burning rafter splits directly above her and screams \"Alexander!\" Cut before the beam falls. Open question: will he reach her in time?",
+        "why": "Instant danger, the hero bursting through fire (\"Juliana! Get up!\"), and a reckless choice (running back for her mother's book), cut at the moment of impact.",
+        "cold_viewer_risk": "Low. Fire needs no context, and the ledger's meaning is spoken (\"It's my mother's!\").",
+        "score": 9
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "02:14.50",
+            "end": "02:22.50"
+          },
+          {
+            "start": "02:38.00",
+            "end": "03:12.00"
+          }
+        ],
+        "duration_sec": 42.0,
+        "hook": "Their cottage is engulfed in flames against the night sky; Juliana sobs \"Our home...\" (+1.70 s)",
+        "cliffhanger": "\"Someone wanted us out.\" ... \"They took our home. I will not let them take anything else now.\" / \"What are you going to do?\" Hold on his face lit by the fire. Open question: what revenge is coming?",
+        "why": "The arson reveal plus a vengeance vow, with a clean cliffhanger and no spoilers.",
+        "cold_viewer_risk": "Low.",
+        "score": 7
+      },
+      "promo_potential": "strong",
+      "potential_reason": "Spectacle, peril, and a vengeance vow in one episode."
+    },
+    {
+      "episode": 19,
+      "summary": "Homeless after the fire, the couple are given a barn by grateful villagers. In the forest a loyal informant greets Alexander as \"Your Grace\" and reports that Rupert and Lady Catherine have seized Ashburg, his mother is a watched prisoner, and everyone believes he is dead; he chooses to stay \"dead\" a little longer.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:43.00",
+            "end": "00:49.20"
+          },
+          {
+            "start": "01:10.60",
+            "end": "01:29.50"
+          }
+        ],
+        "duration_sec": 25.1,
+        "hook": "A scarred man steps out of the fog and bows to the \"beggar\" husband: \"Your Grace.\" (+1.30 s)",
+        "cliffhanger": "\"My mother is a prisoner in her own house.\" / \"And everyone believes you are dead.\" / \"Then let them believe it a little longer.\" ... \"Then Ashburg will remember who it belongs to.\" Open question: when will the \"dead\" Duke strike back?",
+        "why": "Delivers the title's promise (the soldier is a Duke) with a revenge vow, skipping the informant's name-dump.",
+        "cold_viewer_risk": "Moderate. \"Ashburg\" and the mother's situation are new; it works best with the title on screen.",
+        "score": 7
+      },
+      "runner_up": null,
+      "promo_potential": "ok",
+      "potential_reason": "A big identity confirmation, but mostly exposition, and the rest of the episode is quiet."
+    },
+    {
+      "episode": 20,
+      "summary": "At Ashbury Manor, Rupert and Catherine toast their rise: Alexander's death will soon be sealed by the Crown, and the Dowager Duchess's \"wasting\" illness is something Rupert has \"ensured.\" In the freezing barn, Juliana refuses to stop making remedies for the fever-stricken valley.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:21.30",
+            "end": "00:42.50"
+          },
+          {
+            "start": "01:21.00",
+            "end": "01:28.20"
+          },
+          {
+            "start": "01:39.20",
+            "end": "01:54.75"
+          }
+        ],
+        "duration_sec": 43.95,
+        "hook": "Rupert over tea: \"Once my cousin Alexander's death is formally sealed by the Crown...\" (+0.00 s) \"...the title is mine.\"",
+        "cliffhanger": "Catherine: \"Once the old Duchess is gone...\" \"...Ashbury will finally belong to us.\" \"This house will only bow to me.\" Icy profile hold as the strings swell. Open question: can anyone stop them before the Duchess dies?",
+        "why": "A villain-scheme promo with a chilling hint of murder (\"Not through the winter. I've ensured her quiet comfort.\"), plus the heroine's counterpunch: \"They have reduced me to myself.\" \"And I am not finished.\"",
+        "cold_viewer_risk": "High. Two brand-new characters, Alexander and the Dowager mentioned with no setup, and Juliana on screen for only 7 s; it also reveals the poisoner before eps 22-25 investigate.",
+        "score": 6
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "01:06.70",
+            "end": "01:28.20"
+          }
+        ],
+        "duration_sec": 21.5,
+        "hook": "Juliana, bandaged hands gripping her basket: \"If I stop, Seamus, the lung fever in the valley wins.\" (+0.00 s)",
+        "cliffhanger": "\"They have reduced you to a peasant.\" / \"They have reduced me to myself.\" \"And I am not finished.\" Open question: what is she planning? (soft)",
+        "why": "A heroine-centric resilience clip with a quotable line.",
+        "cold_viewer_risk": "Moderate. Seamus and the valley fever are unexplained.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Juicy scheming, but heavy on context, with little action and the heroine barely on screen."
+    },
+    {
+      "episode": 21,
+      "summary": "Prudence begs Juliana to save her little brother Toby after the apothecary and the manor doctor turned them away; Juliana's steam remedy clears his chest, and Prudence reveals that the Dowager Duchess is wasting away from a mysterious illness inside the manor.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:03.50",
+            "end": "00:15.00"
+          },
+          {
+            "start": "01:10.50",
+            "end": "01:16.00"
+          },
+          {
+            "start": "01:31.00",
+            "end": "01:54.00"
+          }
+        ],
+        "duration_sec": 40.0,
+        "hook": "Barn doors slam open; a sobbing girl: \"Lady Juliana! Please! You have to help me, Toby is dying!\" (+0.70 s)",
+        "cliffhanger": "With Toby saved, Prudence lowers her voice: \"She is dying, Lady Juliana.\" ... \"she is fading to nothing, and no one can stop it.\" Push-in on Juliana's dawning resolve. Open question: will she risk the manor to save the Duchess?",
+        "why": "An urgent rescue hook, a quick win (\"His chest is quiet!\"), then a pivot into a bigger mystery.",
+        "cold_viewer_risk": "Moderate. Who the Dowager Duchess is (Alexander's mother) and why she matters are never said.",
+        "score": 6
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:18.20",
+            "end": "00:40.50"
+          }
+        ],
+        "duration_sec": 22.3,
+        "hook": "Prudence: \"He shut the door in my face because we have no silver!\" (+0.00 s)",
+        "cliffhanger": "Prudence on her knees (\"He is only seven!\"); Juliana grabs her ledger: \"We go now.\" Open question: can she save him with nothing but coltsfoot?",
+        "why": "A rich-versus-poor injustice that frames the heroine as the people's healer.",
+        "cold_viewer_risk": "Low.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Solid urgency, but the rescue resolves inside the episode and the cliffhanger needs plot context."
+    },
+    {
+      "episode": 22,
+      "summary": "Disguised as a maid, Juliana slips into Ashbury Manor with Prudence, gets past the housekeeper's interrogation, and sneaks into the forbidden West Wing, where she finds the Dowager Duchess gasping and realizes this \"isn't ordinary fever.\"",
+      "best": {
+        "segments": [
+          {
+            "start": "00:06.50",
+            "end": "00:14.20"
+          },
+          {
+            "start": "00:36.20",
+            "end": "00:42.50"
+          },
+          {
+            "start": "01:42.00",
+            "end": "02:11.00"
+          }
+        ],
+        "duration_sec": 43.0,
+        "hook": "Prudence pulls her into a stone archway: \"Keep your head down. If anyone recognizes you, everything is over.\" (+0.50 s)",
+        "cliffhanger": "At the bedside the frail Duchess convulses; Juliana: \"This isn't ordinary fever.\" \"Who has been treating you?\" Extreme close-up of the Duchess's terrified eyes. Open question: is she being poisoned, and by whom?",
+        "why": "Undercover premise (\"Today, I am only a maid.\") plus a sickroom discovery, ending on a whispered question.",
+        "cold_viewer_risk": "Moderate. Who the Duchess is, and why Juliana takes the risk, go unexplained; there are about 12 s without dialogue before \"Your Grace?\".",
+        "score": 7
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:42.50",
+            "end": "01:13.00"
+          }
+        ],
+        "duration_sec": 30.5,
+        "hook": "The housekeeper, arms folded: \"Prudence.\" \"Who is this?\" (+1.80 s)",
+        "cliffhanger": "\"And can you keep your eyes and ears where they belong?\" / \"Yes, ma'am.\" Cut on the housekeeper's stare. Open question: will her disguise hold?",
+        "why": "Pure undercover tension, almost context-free.",
+        "cold_viewer_risk": "Low-moderate. The alias \"Julian\", and why she is undercover at all, go unexplained.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "A good disguise-and-mystery setup, but the stakes depend on the Duchess storyline."
+    },
+    {
+      "episode": 23,
+      "summary": "Checking the Duchess's blackened nails, dry mouth, and weak pulse against her mother's journal, Juliana concludes she is being poisoned with arsenic. She rushes to mix a charcoal antidote as footsteps approach and the door handle turns.",
+      "best": {
+        "segments": [
+          {
+            "start": "01:18.50",
+            "end": "01:40.50"
+          },
+          {
+            "start": "01:52.20",
+            "end": "02:11.50"
+          }
+        ],
+        "duration_sec": 41.3,
+        "hook": "Hands resting on her mother's closed journal, Juliana looks straight at Prudence: \"Someone is poisoning her.\" (+0.50 s), then \"Arsenic.\"",
+        "cliffhanger": "Heavy footsteps; Prudence whispers \"Juliana... someone is coming.\" With the cure unfinished, the brass handle turns and the door creaks open. Open question: who has caught them?",
+        "why": "Shock diagnosis, a race against time (\"Can you save her?\" / \"I can try.\"), imminent discovery: a self-contained thriller beat.",
+        "cold_viewer_risk": "Low-moderate. Who the patient is doesn't matter to the tension.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:11.80",
+            "end": "00:46.50"
+          }
+        ],
+        "duration_sec": 34.7,
+        "hook": "Close-up of an old woman's purplish-black fingernails (+0.00 s); Juliana: \"How long has she been like this?\"",
+        "cliffhanger": "Prudence says \"The physician said her heart is failing.\" Juliana: \"No.\" ... \"This is not simply old age.\" Open question: then what is killing her?",
+        "why": "A medical-mystery tease that holds back the arsenic reveal.",
+        "cold_viewer_risk": "Low-moderate.",
+        "score": 6
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A poison reveal and a door-opening cliffhanger, both clear without context."
+    },
+    {
+      "episode": 24,
+      "summary": "A haughty noblewoman (Lady Catherine) catches \"maid\" Juliana in the Duchess's chamber, whips her with a riding crop, and sentences her to scrub a filthy hearth on her knees; Juliana keeps the antidote and journal hidden and silently vows to return.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:26.80",
+            "end": "00:48.50"
+          },
+          {
+            "start": "00:57.80",
+            "end": "01:03.80"
+          },
+          {
+            "start": "01:18.50",
+            "end": "01:32.00"
+          }
+        ],
+        "duration_sec": 41.2,
+        "hook": "Juliana: \"She is suffering.\" The noblewoman: \"Then let her suffer.\" (+2.20 s); moments later her riding crop cracks across Juliana's body.",
+        "cliffhanger": "Scrubbing soot on her knees, Juliana touches the antidote vial and journal hidden in her apron. V.O.: \"Let her think I am only a maid.\" ... \"I will return. You cannot stop the healer.\" Open question: can she get back to the Duchess in time?",
+        "why": "Shocking cruelty (\"Then let her suffer\" plus a whip strike), humiliation (\"Every stone.\"), and a secret-weapon twist the viewer is in on.",
+        "cold_viewer_risk": "Low-moderate. The noblewoman is unnamed here (she is Lady Catherine, ep 25), and the viewer has to infer that Juliana is a lady in disguise.",
+        "score": 8
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "00:00.00",
+            "end": "00:26.80"
+          }
+        ],
+        "duration_sec": 26.8,
+        "hook": "An ornate brass door handle turns slowly with an ominous creak (+0.00 s); a noblewoman with a riding crop sweeps in.",
+        "cliffhanger": "\"And who gave you permission to enter this chamber?\" ... \"You thought? A new maid thinks she knows better than the physicians?\" Cut before the punishment.",
+        "why": "Caught-in-the-act tension, with the vial slipped behind her skirt as a secret beat.",
+        "cold_viewer_risk": "Moderate. The hook is a slow door-open, and who the patient is goes unexplained.",
+        "score": 5
+      },
+      "promo_potential": "strong",
+      "potential_reason": "A visceral whip strike and humiliation with a hidden-antidote twist."
+    },
+    {
+      "episode": 25,
+      "summary": "On a forest trail Alexander uncovers the welt Lady Catherine gave Juliana and learns she has been secretly treating the Dowager Duchess (his mother), who is being slowly poisoned with arsenic. Furious that she hid the danger, he relents when she refuses to abandon the Duchess.",
+      "best": {
+        "segments": [
+          {
+            "start": "00:18.80",
+            "end": "00:38.50"
+          },
+          {
+            "start": "00:46.80",
+            "end": "01:03.50"
+          },
+          {
+            "start": "01:19.50",
+            "end": "01:30.20"
+          }
+        ],
+        "duration_sec": 47.1,
+        "hook": "Alexander peels back her torn cloak to reveal a raw, bloody riding-crop welt (+0.00 s), then darkly: \"Who did this?\"",
+        "cliffhanger": "\"The Dowager Duchess.\" Alexander freezes: \"The Dowager?\" Then \"Poison.\" \"Arsenic.\" and his scarred fist clenches white. Open question: does she know the Duchess is his mother, and what will he do?",
+        "why": "Wound reveal plus protective fury, with dramatic irony: she has unknowingly been saving her husband's mother.",
+        "cold_viewer_risk": "Moderate-high. Lady Catherine, Ashburg Manor, and the Dowager are unexplained, and his shock only lands if you know she is his mother (ep 19).",
+        "score": 6
+      },
+      "runner_up": {
+        "segments": [
+          {
+            "start": "02:05.50",
+            "end": "02:26.40"
+          }
+        ],
+        "duration_sec": 20.9,
+        "hook": "Juliana: \"Alexander... why are you so angry?\" (+0.30 s)",
+        "cliffhanger": "\"Worry? They struck you. They could have killed you.\" / \"But they didn't.\" / \"This time.\" Cut on his ominous warning.",
+        "why": "Protective-husband intensity with a foreboding last line.",
+        "cold_viewer_risk": "Moderate. You need to know where she went and why.",
+        "score": 5
+      },
+      "promo_potential": "ok",
+      "potential_reason": "Emotional confrontation and dramatic irony, but it is mostly talk recapping eps 22-24."
+    }
+  ]
+}

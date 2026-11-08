@@ -1,0 +1,9 @@
+# Hookline runtime dependencies. Needs Python 3.11 or newer.
+#   python -m venv .venv
+#   .venv\Scripts\activate        (macOS/Linux: source .venv/bin/activate)
+#   pip install -r requirements.txt
+#   python run.py
+fastapi~=0.162.1
+uvicorn~=0.54.0
+python-multipart~=0.0.33
+google-genai~=3.0.0
